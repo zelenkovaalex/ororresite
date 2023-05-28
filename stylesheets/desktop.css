@@ -1,0 +1,240 @@
+@media only screen and (min-width: 1025px){
+body {
+  /* height: 56.25vw;
+  width: 100vw;
+  background-image: url('../img/main.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;    
+}
+
+/* шапка */
+nav {
+  width: 100%;
+  display: block;
+  height: 6.16vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+}
+nav > .menu-items {
+  width: 95.50vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav > .menu-items > a {
+  margin-top: 1svw;
+  line-height: 2.29vw;
+  color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  text-decoration: none;
+}
+nav > .menu-items > a:hover {
+  line-height: 44px;
+  color: #FFE602;
+  text-decoration: none;
+  font-size: 2vw;
+  font-family: 'Inter';
+  font-style: bold;
+}
+nav > .menu-items > a:nth-child(1) {
+  line-height: 2.29vw;
+  width: 15.5vw;
+  height: 3.5vw;
+  background-repeat: no-repeat;
+  background-image: url('../img/group 7_1.png');
+  background-position: center center;
+}
+
+/* text */
+.back_text {
+  margin-top: 13vw;
+  margin-left: 13vw;
+}
+.hello {
+  position: absolute;
+  width: 77vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 144px;
+  line-height: 174px;
+  color: #FFE602;
+}
+.orrore {
+  background-image: url('../img/group 7.png');
+  background-size: cover;
+  position: absolute;
+  width: 34.64vw;
+  height: 7.50vw;
+  left: 20.43vw;
+  top: 29.58vw;
+}
+
+/* trash */
+.watermalon {
+  background-image: url('../img/group 13.png');
+  background-size: cover;
+  position: absolute;
+  width: 29.64vw;
+  height: 36.5vw;
+  left: 3vw;
+  top: 5.5vw;
+}
+.milk {
+  background-image: url('../img/group 15.png');
+  background-size: cover;
+  position: absolute;
+  width: 18.64vw;
+  height: 18.5vw;
+  left: 0vw;
+  top: 37.5vw;
+}
+.bottle {
+  background-image: url('../img/vector 35.png');
+  background-size: cover;
+  position: absolute;
+  width: 23.64vw;
+  height: 28.5vw;
+  left: 14vw;
+  top: 6vw;
+}
+.apple {
+  background-image: url('../img/group 11.png');
+  background-size: cover;
+  position: absolute;
+  width: 19vw;
+  height: 15.5vw;
+  left: 16.7vw;
+  top: 39vw;
+}
+.straw {
+  background-image: url('../img/vector 40.png');
+  background-size: cover;
+  position: absolute;
+  width: 24.66vw;
+  height: 23.5vw;
+  left: 15vw;
+  top: 32.5vw;
+}
+.bag {
+  background-image: url('../img/exclude.png');
+  background-size: cover;
+  position: absolute;
+  width: 46vw;
+  height: 36.8vw;
+  left: 23vw;
+  top: 11.6vw;
+}
+.ear_straw {
+  background-image: url('../img/group 14.png');
+  background-size: cover;
+  position: absolute;
+  width: 12vw;
+  height: 5.5vw;
+  left: 35vw;
+  top: 10.3vw;
+}
+.spoon {
+  background-image: url('../img/vector 46.png');
+  background-size: cover;
+  position: absolute;
+  width: 25.64vw;
+  height: 4.5vw;
+  left: 37vw;
+  top: 6.5vw;
+}
+.brush {
+  background-image: url('../img/vector 42.png');
+  background-size: cover;
+  position: absolute;
+  width: 10.2vw;
+  height: 19.5vw;
+  left: 62vw;
+  top: 6.1vw;
+}
+.tin {
+  background-image: url('../img/group 10.png');
+  background-size: cover;
+  position: absolute;
+  width: 18.64vw;
+  height: 17.5vw;
+  left: 42vw;
+  top: 38.5vw;
+}
+.coffee_cup {
+  background-image: url('../img/group 9.png');
+  background-size: cover;
+  position: absolute;
+  width: 17.8vw;
+  height: 19vw;
+  left: 63.5vw;
+  top: 26.5vw;
+}
+.ice_coffee_cup {
+  background-image: url('../img/vector 45.png');
+  background-size: cover;
+  position: absolute;
+  width: 13vw;
+  height: 23.5vw;
+  left: 57.1vw;
+  top: 32.5vw;
+}
+.stuff {
+  background-image: url('../img/vector 50.png');
+  background-size: cover;
+  position: absolute;
+  width: 9.9vw;
+  height: 11.5vw;
+  left: 67.9vw;
+  top: 44vw;
+}
+.tin_holder {
+  background-image: url('../img/exclude-1.png');
+  background-size: cover;
+  position: absolute;
+  width: 15.9vw;
+  height: 15.5vw;
+  left: 71.5vw;
+  top: 18.5vw;
+}
+.tooth_tube {
+  background-image: url('../img/vector 41.png');
+  background-size: cover;
+  position: absolute;
+  width: 12vw;
+  height: 22.5vw;
+  left: 77.5vw;
+  top: 33.5vw;
+}
+.fish {
+  background-image: url('../img/vector 49.png');
+  background-size: cover;
+  position: absolute;
+  width: 14.64vw;
+  height: 32.5vw;
+  left: 85vw;
+  top: 23.5vw;
+}
+.big_jar {
+  background-image: url('../img/group 12.png');
+  background-size: cover;
+  position: absolute;
+  width: 22vw;
+  height: 14.7vw;
+  left: 65.2vw;
+  top: 5.5vw;
+}
+.banana {
+  background-image: url('../img/exclude-2.png');
+  background-size: cover;
+  position: absolute;
+  width: 18.5vw;
+  height: 25.5vw;
+  left: 81.3vw;
+  top: 5.7vw;
+}
+}
