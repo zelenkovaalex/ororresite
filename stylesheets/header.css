@@ -1,0 +1,42 @@
+nav {
+  z-index: 4;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 6.16vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+}
+nav > .menu-items {
+  width: 95.50vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav > .menu-items > a {
+  margin-top: 1vw;
+  line-height: 2.29vw;
+  color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  text-decoration: none;
+}
+nav > .menu-items > a:hover {
+  line-height: 2.29vw;
+  color: #FFE602;
+  text-decoration: none;
+  font-size: 2vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+}
+nav > .menu-items > a:nth-child(1) {
+  line-height: 2.29vw;
+  width: 15.5vw;
+  height: 3.5vw;
+  background-repeat: no-repeat;
+  background-image: url('../img/group 7_1.png');
+  background-position: center center;
+}
