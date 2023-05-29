@@ -107,7 +107,7 @@ body {
   position: absolute;
   width: 46vw;
   height: 36.8vw;
-  left: 23vw;
+  left: 21vw;
   top: 11.6vw;
 }
 .bag:hover {
@@ -159,7 +159,7 @@ body {
   position: absolute;
   width: 18.64vw;
   height: 17.5vw;
-  left: 42vw;
+  left: 41vw;
   top: 38.5vw;
 }
 .tin:hover {
@@ -185,8 +185,8 @@ body {
   position: absolute;
   width: 13vw;
   height: 23.5vw;
-  left: 57.1vw;
-  top: 32.5vw;
+  left: 56.1vw;
+  top: 31.5vw;
 }
 .ice_coffee_cup:hover {
   opacity: 0%;
@@ -198,7 +198,7 @@ body {
   position: absolute;
   width: 9.9vw;
   height: 11.5vw;
-  left: 67.9vw;
+  left: 67.5vw;
   top: 44vw;
 }
 .stuff:hover {
