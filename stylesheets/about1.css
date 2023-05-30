@@ -207,6 +207,9 @@ body {
   top: 10.5vw;
   rotate: 33deg;
 }
+.watermalon1:hover {
+  opacity: 0%;
+}
 
 .fish1 {
   z-index: 2;
@@ -219,6 +222,9 @@ body {
   top: 42.5vw;
   rotate: 66deg;
 }
+.fish1:hover {
+  opacity: 0%;
+}
 
 .apple1 {
   z-index: 3;
@@ -230,6 +236,9 @@ body {
   left: 39.7vw;
   top: 95vw;
   rotate: 26deg;
+}
+.apple1:hover {
+  opacity: 0%;
 }
 
 .flower {
@@ -262,6 +271,9 @@ body {
   height: 10.5vw;
   left: 66.5vw;
   top: 158.5vw;
+}
+.banana1:hover {
+  opacity: 0%;
 }
 
 .button1 {
