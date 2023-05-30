@@ -25,19 +25,19 @@ body {
   color: #FFE602;
 }
 .orrore {
-  background-image: url('../img/group7.png');
+  background-image: url('../img/Group7.png');
   background-size: cover;
   position: absolute;
   width: 34.64vw;
   height: 7.50vw;
   left: 6.43vw;
-  top: 22.58vw;
+  top: 9.58vw;
 }
 
 /* trash */
 .watermalon {
   z-index: 1;
-  background-image: url('../img/group13.png');
+  background-image: url('../img/Group13.png');
   background-size: cover;
   position: absolute;
   width: 29.64vw;
@@ -50,7 +50,7 @@ body {
 }
 .milk {
   z-index: 1;
-  background-image: url('../img/group15.png');
+  background-image: url('../img/Group15.png');
   background-size: cover;
   position: absolute;
   width: 18.64vw;
@@ -63,7 +63,7 @@ body {
 }
 .bottle {
   z-index: 2;
-  background-image: url('../img/vector35.png');
+  background-image: url('../img/Vector35.png');
   background-size: cover;
   position: absolute;
   width: 23.64vw;
@@ -76,7 +76,7 @@ body {
 }
 .apple {
   z-index: 3;
-  background-image: url('../img/group11.png');
+  background-image: url('../img/Group11.png');
   background-size: cover;
   position: absolute;
   width: 19vw;
@@ -89,7 +89,7 @@ body {
 }
 .straw {
   z-index: 2;
-  background-image: url('../img/vector40.png');
+  background-image: url('../img/Vector40.png');
   background-size: cover;
   position: absolute;
   width: 23.66vw;
@@ -102,7 +102,7 @@ body {
 }
 .bag {
   z-index: 1;
-  background-image: url('../img/exclude.png');
+  background-image: url('../img/Exclude.png');
   background-size: cover;
   position: absolute;
   width: 46vw;
@@ -115,7 +115,7 @@ body {
 }
 .ear_straw {
   z-index: 1;
-  background-image: url('../img/group14.png');
+  background-image: url('../img/Group14.png');
   background-size: cover;
   position: absolute;
   width: 12vw;
@@ -128,7 +128,7 @@ body {
 }
 .spoon {
   z-index: 1;
-  background-image: url('../img/vector46.png');
+  background-image: url('../img/Vector46.png');
   background-size: cover;
   position: absolute;
   width: 25.64vw;
@@ -141,7 +141,7 @@ body {
 }
 .brush {
   z-index: 2;
-  background-image: url('../img/vector42.png');
+  background-image: url('../img/Vector42.png');
   background-size: cover;
   position: absolute;
   width: 10.7vw;
@@ -154,7 +154,7 @@ body {
 }
 .tin {
   z-index: 1;
-  background-image: url('../img/group10.png');
+  background-image: url('../img/Group10.png');
   background-size: cover;
   position: absolute;
   width: 18.64vw;
@@ -167,7 +167,7 @@ body {
 }
 .coffee_cup {
   z-index: 1;
-  background-image: url('../img/group9.png');
+  background-image: url('../img/Group9.png');
   background-size: cover;
   position: absolute;
   width: 17.8vw;
@@ -180,7 +180,7 @@ body {
 }
 .ice_coffee_cup {
   z-index: 1;
-  background-image: url('../img/vector45.png');
+  background-image: url('../img/Vector45.png');
   background-size: cover;
   position: absolute;
   width: 13vw;
@@ -193,7 +193,7 @@ body {
 }
 .stuff {
   z-index: 1;
-  background-image: url('../img/vector50.png');
+  background-image: url('../img/Vector50.png');
   background-size: cover;
   position: absolute;
   width: 9.9vw;
@@ -206,7 +206,7 @@ body {
 }
 .tin_holder {
   z-index: 1;
-  background-image: url('../img/exclude-1.png');
+  background-image: url('../img/Exclude-1.png');
   background-size: cover;
   position: absolute;
   width: 15.9vw;
@@ -219,7 +219,7 @@ body {
 }
 .tooth_tube {
   z-index: 1;
-  background-image: url('../img/vector41.png');
+  background-image: url('../img/Vector41.png');
   background-size: cover;
   position: absolute;
   width: 12vw;
@@ -232,7 +232,7 @@ body {
 }
 .fish {
   z-index: 2;
-  background-image: url('../img/vector49.png');
+  background-image: url('../img/Vector49.png');
   background-size: cover;
   position: absolute;
   width: 14.64vw;
@@ -245,7 +245,7 @@ body {
 }
 .big_jar {
   z-index: 1;
-  background-image: url('../img/group12.png');
+  background-image: url('../img/Group12.png');
   background-size: cover;
   position: absolute;
   width: 22vw;
@@ -258,7 +258,7 @@ body {
 }
 .banana {
   z-index: 1;
-  background-image: url('../img/exclude-2.png');
+  background-image: url('../img/Exclude-2.png');
   background-size: cover;
   position: absolute;
   width: 18.5vw;

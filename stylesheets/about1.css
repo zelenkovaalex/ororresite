@@ -7,7 +7,7 @@ body {
   background-color: black;
   background-size: cover;
 }
-nav > .menu-items > a:nth-child(2) {
+/* .menu-items > a:nth-child(2) {
   line-height: 2.29vw;
   color: #FFE602;
   text-decoration: none;
@@ -15,7 +15,7 @@ nav > .menu-items > a:nth-child(2) {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
-}
+} */
 
 /* textes */
 
