@@ -15,6 +15,7 @@ body {
   margin-left: 13vw;
 }
 .hello {
+  text-align: left;
   position: absolute;
   width: 77vw;
   font-family: 'Inter';

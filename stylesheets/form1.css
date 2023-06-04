@@ -1,0 +1,49 @@
+@media only screen and (min-width: 1025px){
+body {
+  /* height: 64.25vw;
+  width: 100vw;
+  background-image: url('../img/11.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+
+/* input[type="text"], input[type="tel"], input[type="email"], input[type="password"], select {
+  z-index: 3;
+  position: absolute;
+  height: 6.82vw;
+  border: 1px solid #fff;
+  border-radius: 4px;
+} */
+p {
+  text-align: left;
+}
+input + p {
+  text-align: left;
+  font-size: 25px;
+  color: #999;
+  margin-top: -10px;
+}
+form > div > * {
+  display: inline-block;
+  width: auto;
+}
+input[type="radio"] {
+  margin-left: 20px;
+}
+
+.sobitie {
+  width: 25vw;
+}
+select {
+  z-index: 5;
+  position: absolute;
+  height: 6.82vw;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  margin-left: 8vw;
+  margin-top: 7vw;
+  width: 50vw;
+}
+
+}
