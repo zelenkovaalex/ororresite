@@ -389,4 +389,14 @@ body {
   border: 1px solid #FFFFFF;
 }
 
+.bottom3 {
+  top: 56vw;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 8.16vw;
+  background-color: black;
+}
+
 }

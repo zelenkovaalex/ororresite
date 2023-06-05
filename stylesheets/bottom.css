@@ -1,13 +1,3 @@
-.bottom {
-  z-index: 0;
-  top: 167vw;
-  position: absolute;
-  width: 100%;
-  display: block;
-  height: 8.16vw;
-  background-color: black;
-  border: 1px solid #FFFFFF;
-}
 .abauthor {
   z-index: 1;
   position: absolute;

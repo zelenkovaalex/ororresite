@@ -4,8 +4,8 @@ nav {
   width: 100%;
   display: block;
   height: 6.16vw;
-  background-color: black;
-  border: 1px solid #FFFFFF;
+  /* background-color: black;
+  border: 1px solid #FFFFFF; */
 }
 nav > .menu-items {
   width: 92.50vw;
