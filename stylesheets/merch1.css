@@ -8,11 +8,18 @@ body {
   background-size: cover;
 }
 
+.pp {
+  width: 21.5vw;
+  height: 31.5vw;
+  top: 7.2vw;
+}
+
 .diffuser {
   top: 5.5vw;
   left: 1.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -21,16 +28,13 @@ body {
   color: #FFE602;
 }
 .photo3 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/diffuser.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price1 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -44,16 +48,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 21vw;
+  top: 45.7vw;
 }
 
 
 .soap {
   top: 5.5vw;
   left: 26.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -62,16 +68,13 @@ body {
   color: #FFE602;
 }
 .photo4 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/soap.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price2 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -85,16 +88,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 46vw;
+  top: 45.7vw;
 }
 
 
 .book2 {
   top: 5.5vw;
   left: 51vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -103,16 +108,13 @@ body {
   color: #FFE602;
 }
 .photo5 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/book2.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price3 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -126,16 +128,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 70.6vw;
+  top: 45.7vw;
 }
 
 
 .socks {
   top: 5.5vw;
   left: 75.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -144,16 +148,13 @@ body {
   color: #FFE602;
 }
 .photo6 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/socks.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price4 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -167,16 +168,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 95.2vw;
+  top: 45.7vw;
 }
 
 
 .cup {
   top: 52.5vw;
   left: 1.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -185,16 +188,13 @@ body {
   color: #FFE602;
 }
 .photo7 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/cup.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price5 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -208,16 +208,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 21vw;
+  top: 99.7vw;
 }
 
 
 .shopper {
   top: 52.5vw;
   left: 26.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -226,16 +228,13 @@ body {
   color: #FFE602;
 }
 .photo8 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/shopper.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price6 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -249,16 +248,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 46vw;
+  top: 99.7vw;
 }
 
 
 .t-shirt {
   top: 52.5vw;
   left: 51vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -267,16 +268,13 @@ body {
   color: #FFE602;
 }
 .photo9 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/t-shirt.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price7 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -290,16 +288,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 70.6vw;
+  top: 99.7vw;
 }
 
 
 .tea {
   top: 52.5vw;
   left: 75.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -308,16 +308,13 @@ body {
   color: #FFE602;
 }
 .photo10 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/tea.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price8 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -332,16 +329,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 95.2vw;
+  top: 99.7vw;
 }
 
 
 .notebook {
   top: 99.5vw;
   left: 1.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -350,16 +349,13 @@ body {
   color: #FFE602;
 }
 .photo11 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/notebook.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price9 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -373,16 +369,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 21vw;
+  top: 154vw;
 }
 
 
 .mask {
   top: 99.5vw;
   left: 26.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -391,16 +389,13 @@ body {
   color: #FFE602;
 }
 .photo12 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/mask.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price10 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -414,16 +409,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 46vw;
+  top: 154vw;
 }
 
 
 .bottels {
   top: 99.5vw;
   left: 51vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -432,16 +429,13 @@ body {
   color: #FFE602;
 }
 .photo13 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/bottels.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price11 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -455,16 +449,18 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 70.6vw;
+  top: 154vw;
 }
 
 
 .card {
   top: 99.5vw;
   left: 75.5vw;
+  margin: 5vw 1.5vw;
   z-index: 1;
-  position: absolute;
+  display: inline-grid;;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
@@ -473,16 +469,13 @@ body {
   color: #FFE602;
 }
 .photo14 {
-  position: absolute;
+  display: inline-grid;;
   background-image: url('../img/card.png');
   background-size: cover;
-  width: 23.5vw;
-  height: 33.5vw;
-  top: 7.2vw;
 }
 .price12 {
-  position: absolute;
-  top: 41.5vw;
+  display: inline-grid;;
+  margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -496,8 +489,9 @@ body {
   background-size: cover;
   width: 1.8vw;
   height: 1.5vw;
-  top: 41.5vw;
-  left: 21.7vw;
+  margin: 1vw 0vw;
+  left: 95.2vw;
+  top: 154vw;
 }
 
 .order {
@@ -508,7 +502,7 @@ body {
   border: 1px solid #FFFFFF;
   border-radius: 27px;
   position: absolute;
-  top: 149vw;
+  top: 160vw;
   left: 34.7vw;
   font-family: 'Inter';
   font-style: normal;
@@ -527,12 +521,12 @@ body {
   background-size: cover;
   width: 54.3vw;
   height: 32vw;
-  top: 113.5vw;
-  left: 21.7vw;
+  left: 21vw;
+  top: 125.7vw;
 }
 
 .bottom2 {
-  top: 157vw;
+  top: 167vw;
   z-index: 5;
   position: absolute;
   width: 100%;

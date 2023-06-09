@@ -49,7 +49,7 @@ select {
   background-size: cover;
   border-radius: 4px;
   margin-left: 7.5vw;
-  margin-top: 13vw;
+  margin-top: 9vw;
   width: 84vw;
   color: #fff;
 }
@@ -58,31 +58,31 @@ select {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 18.5vw;
+  margin-top: 14.5vw;
 }
 .surname {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 24vw;
+  margin-top: 20vw;
 }
 .email {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 29.6vw;
+  margin-top: 25.6vw;
 }
 .telephone {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 35.2vw;
+  margin-top: 31.2vw;
 }
 .promocode {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 40.8vw;
+  margin-top: 36.8vw;
 }
 input {
   height: 4.2vw;
@@ -124,7 +124,7 @@ input {
   border: 1px solid #FFFFFF;
   border-radius: 27px;
   position: absolute;
-  top: 48vw;
+  top: 50vw;
   left: 36.7vw;
   font-family: 'Inter';
   font-style: normal;

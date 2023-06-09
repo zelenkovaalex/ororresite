@@ -1,0 +1,66 @@
+@media only screen and (min-width: 1025px){
+body {
+  /* height: 185.63vw;
+  width: 100vw;
+  background-image: url('../img/5.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+
+.f1 {
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+  width: 17.5vw;
+  height: 24.5vw;
+  top: 7.2vw;
+  left: 5vw;
+  margin: 10vw 1vw 5vw;
+  display: inline-grid;
+}
+.f2 {
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+  width: 17.5vw;
+  height: 24.5vw;
+  top: 7.2vw;
+  left: 5vw;
+  margin: 10vw 1vw 5vw;
+  display: inline-grid;
+}
+.f3 {
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+  width: 17.5vw;
+  height: 24.5vw;
+  top: 7.2vw;
+  left: 5vw;
+  margin: 10vw 1vw 5vw;
+  display: inline-grid;
+}
+.f4 {
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+  width: 17.5vw;
+  height: 24.5vw;
+  top: 7.2vw;
+  left: 5vw;
+  margin: 10vw 1vw 5vw;
+  display: inline-grid;
+}
+.f5 {
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+  width: 17.5vw;
+  height: 24.5vw;
+  top: 7.2vw;
+  left: 5vw;
+  margin: 10vw 1vw 5vw;
+  display: inline-grid;
+}
+
+@keyframes first {
+    0% {transform: translateX(0)}
+    100% {transform: translateX(-50%)}
+}
+}

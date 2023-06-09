@@ -13,17 +13,15 @@ body {
 
 /* 1st */
 .d6th {
-  position: relative;
-  left: -6.3vw;
-  top: -3.9vw;
+  display: grid;
+  margin-left: 56.77vw;
+  margin-top: 5.09vw;
 }
 .date1 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -67,17 +65,15 @@ body {
 
 /* 2nd */
 .d10th {
-  position: relative;
-  left: -6.3vw;
-  top: 2.1vw;
+  display: grid;
+  margin-left: 56.77vw;
+  margin-top: 6.09vw;
 }
 .date2 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -121,17 +117,15 @@ body {
 
 /* 3rd */
 .d15th {
-  position: relative;
-  left: -6.3vw;
-  top: 8.1vw;
+  display: grid;
+  margin-left: 56.77vw;
+  margin-top: 6.09vw;
 }
 .date3 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -175,17 +169,15 @@ body {
 
 /* 4th */
 .d20th {
-  position: relative;
-  left: -6.3vw;
-  top: 14.1vw;
+  display: grid;
+  margin-left: 56.77vw;
+  margin-top: 6.09vw;
 }
 .date4 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -229,17 +221,15 @@ body {
 
 /* 5th */
 .d25th {
-  position: relative;
-  left: -6.3vw;
-  top: 20.1vw;
+  display: grid;
+  margin-left: 56.77vw;
+  margin-top: 6.09vw;
 }
 .date5 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -283,17 +273,15 @@ body {
 
 /* 6th */
 .d1st {
-  position: relative;
-  left: -6.3vw;
-  top: 26.1vw;
+  display: grid;
+  margin-left: 56.77vw;
+  margin-top: 6.09vw;
 }
 .date6 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -337,17 +325,15 @@ body {
 
 /* 7th */
 .d5th {
-  position: relative;
-  left: -6.3vw;
-  top: 32.1vw;
+  display: grid;
+  margin-left: 7.77vw;
+  margin-top: 14.09vw;
 }
 .date7 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
   height: 17.34vw;
-  margin-left: 56.77vw;
-  margin-top: 14.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
