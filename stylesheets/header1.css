@@ -1,3 +1,4 @@
+@media only screen and (min-width: 1024px){
 nav {
   z-index: 4;
   position: sticky;
@@ -39,4 +40,8 @@ nav > .menu-items > a:nth-child(1) {
   background-repeat: no-repeat;
   background-image: url('../img/group7_1.png');
   background-position: center center;
+}
+nav > .menu-items > a:nth-child(7) {
+  display: none;
+}
 }

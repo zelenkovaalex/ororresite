@@ -1,0 +1,172 @@
+@media only screen and (min-width: 390px){
+body {
+  /* height: 64.25vw;
+  width: 100vw;
+  background-image: url('../img/11.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+
+/* input[type="text"], input[type="tel"], input[type="email"], input[type="password"], select {
+  z-index: 3;
+  position: absolute;
+  height: 6.82vw;
+  border: 1px solid #fff;
+  border-radius: 4px;
+} */
+p {
+  /* text-align: left; */
+  /* color: #fff; */
+}
+input + p {
+  z-index: 6;
+  position: absolute;
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+  margin-top: -10px;
+}
+form > div > * {
+  display: inline-block;
+}
+input[type="radio"] {
+  margin-left: 6px;
+  color: #fff;
+}
+
+select {
+  z-index: 5;
+  position: absolute;
+  height: 10.2vw;
+  border: 1px solid #fff;
+  background-color: black;
+  background-size: cover;
+  border-radius: 4px;
+  margin-left: 7.5vw;
+  margin-top: 59vw;
+  width: 85vw;
+  color: #fff;
+}
+
+.name {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 71.5vw;
+}
+.surname {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 85vw;
+}
+.email {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 98.6vw;
+}
+.telephone {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 112.2vw;
+}
+.promocode {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 125.8vw;
+}
+input {
+  height: 10.2vw;
+  border: 1px solid #fff;
+  background-color: black;
+  background-size: cover;
+  border-radius: 4px;
+  width: 84vw;
+  color: #fff;
+}
+
+.tin1{
+  z-index: 6;
+  background-image: url('../img/Group10.png');
+  background-size: cover;
+  position: absolute;
+  width: 36.64vw;
+  height: 33.5vw;
+  left: 65vw;
+  top: 182.5vw;
+  rotate: 14.69deg;
+}
+.rubbish_bin {
+ display: none;
+}
+
+.butt {
+  width: 33vw;
+  height: 7vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+  border-radius: 27px;
+  position: absolute;
+  top: 164vw;
+  left: 34.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 4vw;
+  line-height: 4vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: #fff;
+}
+
+.secret {
+  text-align: center;
+  width: 38vw;
+  height: 8vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+  border-radius: 5px;
+  position: absolute;
+  top: 21vw;
+  left: 3.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 3vw;
+  line-height: 2.56vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: #fff;
+}
+
+.thanks {
+  z-index: 6;
+  position: absolute;
+  background-image: url('../img/thanks.png');
+  background-size: cover;
+  width: 64.4vw;
+  height: 15vw;
+  top: 101.5vw;
+  left: 18.7vw;
+}
+
+.bottom4 {
+  top: 214vw;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 8.16vw;
+  background-color: black;
+}
+
+}
