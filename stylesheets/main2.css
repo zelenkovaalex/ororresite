@@ -1,0 +1,265 @@
+@media only screen and (min-width: 390px){
+body {
+  /* height: 56.25vw;
+  width: 100vw;
+  background-image: url('../img/main.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+
+/* text */
+.back_text {
+  position: absolute;
+  margin-top: 61vw;
+  margin-left: 10vw;
+}
+.hello {
+  text-align: left;
+  position: absolute;
+  width: 77vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 49px;
+  line-height: 80px;
+  color: #FFE602;
+}
+.orrore {
+  background-image: url('../img/Group7.png');
+  background-size: cover;
+  position: absolute;
+  width: 49.64vw;
+  height: 9.50vw;
+  left: 10.43vw;
+  top: 46.58vw;
+}
+
+/* trash */
+.watermalon {
+  z-index: 1;
+  background-image: url('../img/Group13.png');
+  background-size: cover;
+  position: absolute;
+  width: 60.18vw;
+  height: 75.41vw;
+  left: 3vw;
+  top: 8.02vw;
+  transform: rotate(27.4deg);
+}
+.watermalon:hover {
+  opacity: 0%;
+}
+.milk {
+  z-index: 1;
+  background-image: url('../img/Group15.png');
+  background-size: cover;
+  position: absolute;
+  width: 49.03vw;
+  height: 47.93vw;
+  left: 0vw;
+  top: 168.54vw;
+}
+.milk:hover {
+  opacity: 0%;
+}
+.bottle {
+  z-index: 2;
+  background-image: url('../img/Vector35.png');
+  background-size: cover;
+  position: absolute;
+  width: 44.01vw;
+  height: 53.99vw;
+  left: 21.52vw;
+  top: 14.04vw;
+  transform: rotate(43.23deg);
+}
+.bottle:hover {
+  opacity: 0%;
+}
+.apple {
+  z-index: 3;
+  background-image: url('../img/Group11.png');
+  background-size: cover;
+  position: absolute;
+  width: 27.54vw;
+  height: 24.45vw;
+  left: 33.81vw;
+  top: 172.44vw;
+  transform: rotate(35deg);
+}
+.apple:hover {
+  opacity: 0%;
+}
+.straw {
+  z-index: 2;
+  background-image: url('../img/Vector40.png');
+  background-size: cover;
+  position: absolute;
+  width: 53.08vw;
+  height: 50.46vw;
+  left: 38.16vw;
+  top: 112.51vw;
+  transform: rotate(90deg);
+}
+.straw:hover {
+  opacity: 0%;
+}
+.bag {
+  z-index: 3;
+  background-image: url('../img/Exclude.png');
+  background-size: cover;
+  position: absolute;
+  width: 101.89vw;
+  height: 82.82vw;
+  left: -1vw;
+  top: 71.43vw;
+  transform: rotate(-8.06deg);
+}
+.bag:hover {
+  opacity: 0%;
+}
+.ear_straw {
+  z-index: 1;
+  background-image: url('../img/Group14.png');
+  background-size: cover;
+  position: absolute;
+  width: 21.38vw;
+  height: 9.98vw;
+  left: 0.52vw;
+  top: 136.73vw;
+  transform: rotate(-5.48deg);
+}
+.ear_straw:hover {
+  opacity: 0%;
+}
+.spoon {
+  z-index: 0;
+  background-image: url('../img/Vector46.png');
+  background-size: cover;
+  position: absolute;
+  width: 40.95vw;
+  height: 7.82vw;
+  left: -7.04vw;
+  top: 82.2vw;
+  transform: rotate(125deg);
+}
+.spoon:hover {
+  opacity: 0%;
+}
+.brush {
+  z-index: 1;
+  background-image: url('../img/Vector42.png');
+  background-size: cover;
+  position: absolute;
+  width: 30.73vw;
+  height: 58.09vw;
+  left: 55.05vw;
+  top: 6.08vw;
+  transform: rotate(326deg);
+}
+.brush:hover {
+  opacity: 0%;
+}
+.tin {
+  z-index: 1;
+  background-image: url('../img/Group10.png');
+  background-size: cover;
+  position: absolute;
+  width: 47.64vw;
+  height: 43.96vw;
+  left: 50.56vw;
+  top: 175.04vw;
+  transform: rotate(13.41deg);
+}
+.tin:hover {
+  opacity: 0%;
+}
+.coffee_cup {
+  z-index: 1;
+  background-image: url('../img/Group9.png');
+  background-size: cover;
+  position: absolute;
+  width: 50.57vw;
+  height: 54.35vw;
+  left: 53.86vw;
+  top: 49.21vw;
+  transform: rotate(51.67deg);
+}
+.coffee_cup:hover {
+  opacity: 0%;
+}
+.ice_coffee_cup {
+  z-index: 1;
+  background-image: url('../img/Vector45.png');
+  background-size: cover;
+  position: absolute;
+  width: 34.99vw;
+  height: 63.83vw;
+  left: 58.9vw;
+  top: 129.77vw;
+  transform: rotate(40deg);
+}
+.ice_coffee_cup:hover {
+  opacity: 0%;
+}
+.stuff {
+display: none;
+}
+
+.tin_holder {
+display: none;
+}
+.tin_holder:hover {
+  opacity: 0%;
+}
+.tooth_tube {
+display: none;
+}
+.tooth_tube:hover {
+  opacity: 0%;
+}
+.fish {
+  z-index: 2;
+  background-image: url('../img/Vector49.png');
+  background-size: cover;
+  position: absolute;
+  width: 18.70vw;
+  height: 42.71vw;
+  left: 70.26vw;
+  top: 12.92vw;
+  transform: rotate(35deg);
+}
+.fish:hover {
+  opacity: 0%;
+}
+.big_jar {
+  z-index: 1;
+  background-image: url('../img/Group12.png');
+  background-size: cover;
+  position: absolute;
+  width: 50.28vw;
+  height: 33.63vw;
+  left: 16.96vw;
+  top: 47.94vw;
+  transform: rotate(340deg);
+}
+.big_jar:hover {
+  opacity: 0%;
+}
+.banana {
+  z-index: 1;
+  background-image: url('../img/Exclude-2.png');
+  background-size: cover;
+  position: absolute;
+  width: 34.9vw;
+  height: 48.88vw;
+  left: 9.66vw;
+  top: 129.72vw;
+  transform: rotate(148.89deg);
+}
+.banana:hover {
+  opacity: 0%;
+}
+
+}

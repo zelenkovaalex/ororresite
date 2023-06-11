@@ -17,7 +17,7 @@ body {
 .diffuser {
   top: 5.5vw;
   left: 1.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -50,14 +50,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 21vw;
-  top: 45.7vw;
+  top: 47.7vw;
 }
 
 
 .soap {
   top: 5.5vw;
   left: 26.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -90,14 +90,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 46vw;
-  top: 45.7vw;
+  top: 47.7vw;
 }
 
 
 .book2 {
   top: 5.5vw;
   left: 51vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -130,14 +130,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 70.6vw;
-  top: 45.7vw;
+  top: 47.7vw;
 }
 
 
 .socks {
   top: 5.5vw;
   left: 75.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -170,14 +170,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 95.2vw;
-  top: 45.7vw;
+  top: 47.7vw;
 }
 
 
 .cup {
   top: 52.5vw;
   left: 1.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -210,14 +210,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 21vw;
-  top: 99.7vw;
+  top: 94vw;
 }
 
 
 .shopper {
   top: 52.5vw;
   left: 26.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -250,14 +250,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 46vw;
-  top: 99.7vw;
+  top: 94vw;
 }
 
 
 .t-shirt {
   top: 52.5vw;
   left: 51vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -290,14 +290,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 70.6vw;
-  top: 99.7vw;
+  top: 94vw;
 }
 
 
 .tea {
   top: 52.5vw;
   left: 75.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -331,14 +331,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 95.2vw;
-  top: 99.7vw;
+  top: 94vw;
 }
 
 
 .notebook {
   top: 99.5vw;
   left: 1.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -371,14 +371,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 21vw;
-  top: 154vw;
+  top: 140vw;
 }
 
 
 .mask {
   top: 99.5vw;
   left: 26.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -411,14 +411,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 46vw;
-  top: 154vw;
+  top: 140vw;
 }
 
 
 .bottels {
   top: 99.5vw;
   left: 51vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -451,14 +451,14 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 70.6vw;
-  top: 154vw;
+  top: 140vw;
 }
 
 
 .card {
   top: 99.5vw;
   left: 75.5vw;
-  margin: 5vw 1.5vw;
+  margin: 1vw 1.5vw;
   z-index: 1;
   display: inline-grid;;
   font-family: 'Inter';
@@ -491,7 +491,7 @@ body {
   height: 1.5vw;
   margin: 1vw 0vw;
   left: 95.2vw;
-  top: 154vw;
+  top: 140vw;
 }
 
 .order {
@@ -502,7 +502,7 @@ body {
   border: 1px solid #FFFFFF;
   border-radius: 27px;
   position: absolute;
-  top: 160vw;
+  top: 148vw;
   left: 34.7vw;
   font-family: 'Inter';
   font-style: normal;
@@ -522,11 +522,11 @@ body {
   width: 54.3vw;
   height: 32vw;
   left: 21vw;
-  top: 125.7vw;
+  top: 113.7vw;
 }
 
 .bottom2 {
-  top: 167vw;
+  top: 157vw;
   z-index: 5;
   position: absolute;
   width: 100%;
