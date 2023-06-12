@@ -10,18 +10,18 @@ body {
 
 .block_posters {
     display: flex;
-    width: 280vw;
-    height: 34vw;
+    width: 420vw;
+    height: 55vw;
     animation: row 10s linear infinite;
 }
 .block_posters1 {
     display: flex;
-    width: 360vw;
-    height: 34vw;
+    width: 530vw;
+    height: 55vw;
     animation: row 10s linear infinite;
 }
 .poster {
-    width: 24vw;
+    width: 40vw;
     height: 100%;
     display: inline-grid;
     margin-left: 3vw;
@@ -38,18 +38,19 @@ body {
 .text {
   position: absolute;
   height: 77px;
-  left: 3.2vw;
+  margin: -1vw 3.2vw;
+  /* left: 3.2vw; */
   font-family: 'Inter';
   font-style: normal;
   font-weight: 800;
-  font-size: 3.33vw;
+  font-size: 5.33vw;
   line-height: 4.01vw;
   color: #FFE602;
 }
 
 #container-festival {
     width: 100vw;
-    height: 42.2vw;
+    height: 65.2vw;
     background-color: black;
     margin-top: 4.2vw;
     overflow: hidden;
@@ -98,7 +99,7 @@ body {
 
 #container-charity {
     width: 100vw;
-    height: 42.2vw;
+    height: 65.2vw;
     background-color: black;
     margin-top: 4.2vw;
     overflow: hidden;
@@ -146,7 +147,7 @@ body {
 
 #container-paint {
     width: 100vw;
-    height: 42.2vw;
+    height: 65.2vw;
     background-color: black;
     margin-top: 4.2vw;
     overflow: hidden;
@@ -194,7 +195,7 @@ body {
 
 #container-photo {
     width: 100vw;
-    height: 42.2vw;
+    height: 65.2vw;
     background-color: black;
     margin-top: 4.2vw;
     overflow: hidden;
@@ -254,12 +255,12 @@ body {
 }
 
 .bottom2 {
-  top: 199vw;
+  top: 291vw;
   z-index: 5;
   position: absolute;
   width: 100%;
   display: block;
-  height: 8.16vw;
+  height: 11.16vw;
   background-color: black;
 }
 }
