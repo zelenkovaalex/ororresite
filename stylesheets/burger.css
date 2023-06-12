@@ -1,0 +1,163 @@
+@media only screen and (min-width: 390px){
+a {
+  margin-top: 2vw;
+  line-height: 11.16vw;
+  color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7vw;
+  text-decoration: none;
+}
+a:hover {
+  line-height: 11.29vw;
+  color: #FFE602;
+  text-decoration: none;
+  font-size: 7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arrow1 {
+  z-index: 1;
+  background-image: url('../img/arrowW.png');
+  background-size: cover;
+  position: absolute;
+  width: 14.64vw;
+  height: 4.64vw;
+  left: 78vw;
+  top: 63.9vw;
+}
+.arrow1:hover {
+  z-index: 1;
+  background-image: url('../img/arrowY.png');
+  background-size: cover;
+}
+.arrow2 {
+  z-index: 1;
+  background-image: url('../img/arrowW.png');
+  background-size: cover;
+  position: absolute;
+  width: 14.64vw;
+  height: 4.64vw;
+  left: 78vw;
+  top: 82.9vw;
+}
+.arrow2:hover {
+  z-index: 1;
+  background-image: url('../img/arrowY.png');
+  background-size: cover;
+}
+.arrow3 {
+  z-index: 1;
+  background-image: url('../img/arrowW.png');
+  background-size: cover;
+  position: absolute;
+  width: 14.64vw;
+  height: 4.64vw;
+  left: 78vw;
+  top: 102.9vw;
+}
+.arrow3:hover {
+  z-index: 1;
+  background-image: url('../img/arrowY.png');
+  background-size: cover;
+}
+.arrow4 {
+  z-index: 1;
+  background-image: url('../img/arrowW.png');
+  background-size: cover;
+  position: absolute;
+  width: 14.64vw;
+  height: 4.64vw;
+  left: 78vw;
+  top: 121.9vw;
+}
+.arrow4:hover {
+  z-index: 1;
+  background-image: url('../img/arrowY.png');
+  background-size: cover;
+}
+.arrow5 {
+  z-index: 1;
+  background-image: url('../img/arrowW.png');
+  background-size: cover;
+  position: absolute;
+  width: 14.64vw;
+  height: 4.64vw;
+  left: 78vw;
+  top: 140.9vw;
+}
+.arrow5:hover {
+  z-index: 1;
+  background-image: url('../img/arrowY.png');
+  background-size: cover;
+}
+
+.line9 {
+  position: absolute;
+  width: 94.72vw;
+  height: 1px;
+  left: 4vw;
+  top: 76vw;
+  background-color: #fff;
+  border: 1px solid #FFFFFF;
+}
+.line10 {
+  position: absolute;
+  width: 94.72vw;
+  height: 1px;
+  left: 4vw;
+  top: 96vw;
+  background-color: #fff;
+  border: 1px solid #FFFFFF;
+}
+.line11 {
+  position: absolute;
+  width: 94.72vw;
+  height: 1px;
+  left: 4vw;
+  top: 115vw;
+  background-color: #fff;
+  border: 1px solid #FFFFFF;
+}
+.line12 {
+  position: absolute;
+  width: 94.72vw;
+  height: 1px;
+  left: 4vw;
+  top: 134vw;
+  background-color: #fff;
+  border: 1px solid #FFFFFF;
+}
+
+.outside {
+  margin-top: 49vw;
+}
+.about {
+  margin: 8vw 6vw;
+}
+.afishi {
+  margin: 8vw 6vw;
+}
+.merch {
+  margin: 8vw 6vw;
+}
+.timetable {
+  margin: 8vw 6vw;
+}
+.form {
+  margin: 8vw 6vw;
+}
+
+.bottom3 {
+  top: 214vw;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 8.16vw;
+  background-color: black;
+}
+}
