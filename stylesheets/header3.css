@@ -1,0 +1,47 @@
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+nav {
+  z-index: 4;
+  position: sticky;
+  top: 0vw;
+  width: 100%;
+  display: block;
+  height: 6.16vw;
+  background-color: black;
+}
+nav > .menu-items {
+  width: 105.50vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav > .menu-items > a {
+  margin-top: 1vw;
+  line-height: 2.29vw;
+  color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.5vw;
+  text-decoration: none;
+}
+nav > .menu-items > a:hover {
+  line-height: 2.29vw;
+  color: #FFE602;
+  text-decoration: none;
+  font-size: 2.5vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+}
+nav > .menu-items > a:nth-child(1) {
+  line-height: 2.29vw;
+  width: 24.5vw;
+  height: 4.5vw;
+  background-repeat: no-repeat;
+  background-image: url('../img/group7_1.png');
+  background-position: center center;
+}
+nav > .menu-items > a:nth-child(7) {
+  display: none;
+}
+}

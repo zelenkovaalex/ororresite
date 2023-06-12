@@ -1,0 +1,337 @@
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+body {
+  /* height: 175vw;
+  width: 100vw;
+  background-image: url('../img/13.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+/* .menu-items > a:nth-child(2) {
+  line-height: 2.29vw;
+  color: #FFE602;
+  text-decoration: none;
+  font-size: 2vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+} */
+
+/* textes */
+
+.text1 {
+  z-index: 1;
+  position: absolute;
+  width: 38.5vw;
+  height: 17.34vw;
+  margin-left: 56.77vw;
+  margin-top: 14.09vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.text2 {
+  z-index: 1;
+  position: absolute;
+  width: 39vw;
+  height: 10vw;
+  margin-left: 56.77vw;
+  margin-top: 32.28vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+
+.text3 {
+  z-index: 1;
+  position: absolute;
+  width: 37.45vw;
+  height: 10vw;
+  margin-left: 6.35vw;
+  margin-top: 62.07vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.text4 {
+  z-index: 1;
+  position: absolute;
+  width: 37.45vw;
+  height: 10vw;
+  margin-left: 6.35vw;
+  margin-top: 68.95vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.text5 {
+  z-index: 1;
+  position: absolute;
+  width: 37.45vw;
+  height: 10vw;
+  margin-left: 6.35vw;
+  margin-top: 79.68vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.text6 {
+  z-index: 1;
+  position: absolute;
+  width: 37.45vw;
+  height: 10vw;
+  margin-left: 6.35vw;
+  margin-top: 88.06vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.text7 {
+  z-index: 1;
+  position: absolute;
+  width: 18.45vw;
+  height: 10vw;
+  margin-left: 26.06vw;
+  margin-top: 102.80vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #F9E000;
+}
+
+
+a {
+  margin-top: 1vw;
+  line-height: 2.29vw;
+  color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.3vw;
+  text-decoration: none;
+}
+.tt {
+  z-index: 1;
+  position: absolute;
+  width: 22vw;
+  margin-left: 3.5vw;
+  margin-top: 1.4vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+  text-decoration: none;
+}
+.tt1 {
+  z-index: 1;
+  position: absolute;
+  width: 22vw;
+  margin-left: 6.5vw;
+  margin-top: 1.4vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+  text-decoration: none;
+}
+.tt2 {
+  z-index: 1;
+  position: absolute;
+  width: 22vw;
+  margin-left: 3.5vw;
+  margin-top: 1.4vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.30vw;
+  line-height: 1.56vw;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* photos */
+
+.photo1 {
+  z-index: 0;
+  background-image: url('../img/photo1.png');
+  background-size: cover;
+  position: absolute;
+  width: 53.64vw;
+  height: 28.5vw;
+  left: 1vw;
+  top: 14.5vw;
+}
+
+.photo2 {
+  z-index: 0;
+  background-image: url('../img/photo2.png');
+  background-size: cover;
+  position: absolute;
+  width: 48.64vw;
+  height: 30.5vw;
+  left: 50vw;
+  top: 68.5vw;
+}
+
+.book {
+  z-index: 0;
+  background-image: url('../img/book.png');
+  background-size: cover;
+  position: absolute;
+  width: 24.64vw;
+  height: 25.5vw;
+  left: 3.5vw;
+  top: 123.5vw;
+}
+
+/* vectors */
+
+.watermalon1 {
+  z-index: 1;
+  background-image: url('../img/group13.png');
+  background-size: cover;
+  position: absolute;
+  width: 20.64vw;
+  height: 25.5vw;
+  left: 1vw;
+  top: 10.5vw;
+  rotate: 33deg;
+}
+.watermalon1:hover {
+  opacity: 0%;
+}
+
+.fish1 {
+  z-index: 2;
+  background-image: url('../img/vector49.png');
+  background-size: cover;
+  position: absolute;
+  width: 8.8vw;
+  height: 19.5vw;
+  left: 81vw;
+  top: 42.5vw;
+  rotate: 66deg;
+}
+.fish1:hover {
+  opacity: 0%;
+}
+
+.apple1 {
+  z-index: 3;
+  background-image: url('../img/group11.png');
+  background-size: cover;
+  position: absolute;
+  width: 13vw;
+  height: 10.5vw;
+  left: 39.7vw;
+  top: 95vw;
+  rotate: 26deg;
+}
+.apple1:hover {
+  opacity: 0%;
+}
+
+.flower {
+  z-index: 0;
+  background-image: url('../img/flower.png');
+  background-size: cover;
+  position: absolute;
+  width: 18.64vw;
+  height: 18.5vw;
+  left: 40.5vw;
+  top: 126.5vw;
+}
+.tree {
+  z-index: 0;
+  background-image: url('../img/tree.png');
+  background-size: cover;
+  position: absolute;
+  width: 13.64vw;
+  height: 23.5vw;
+  left: 76.5vw;
+  top: 123.5vw;
+}
+
+.banana1 {
+  z-index: 6;
+  background-image: url('../img/banana.png');
+  background-size: cover;
+  position: absolute;
+  width: 28.64vw;
+  height: 10.5vw;
+  left: 66.5vw;
+  top: 158.5vw;
+}
+.banana1:hover {
+  opacity: 0%;
+}
+
+.button1 {
+  z-index: 0;
+  box-sizing: border-box;
+  position: absolute;
+  width: 26.82vw;
+  height: 5.52vw;
+  margin-left: 3.38vw;
+  margin-top: 149.99vw;
+  border: 3px solid #FFFFFF;
+  border-radius: 40px;
+}
+.button2 {
+  z-index: 0;
+  box-sizing: border-box;
+  position: absolute;
+  width: 26.82vw;
+  height: 5.52vw;
+  margin-left: 36.38vw;
+  margin-top: 149.99vw;
+  border: 3px solid #FFFFFF;
+  border-radius: 40px;
+}
+.button3 {
+  z-index: 0;
+  box-sizing: border-box;
+  position: absolute;
+  width: 26.82vw;
+  height: 5.52vw;
+  margin-left: 69.38vw;
+  margin-top: 149.99vw;
+  border: 3px solid #FFFFFF;
+  border-radius: 40px;
+}
+
+.bottom1 {
+  top: 167vw;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 8.16vw;
+  background-color: black;
+}
+
+}

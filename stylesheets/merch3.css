@@ -1,0 +1,538 @@
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+body {
+  /* height: 185.63vw;
+  width: 100vw;
+  background-image: url('../img/10.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+
+.pp {
+  width: 21.5vw;
+  height: 31.5vw;
+  top: 7.2vw;
+}
+
+.diffuser {
+  top: 5.5vw;
+  left: 1.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo3 {
+  display: inline-grid;;
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+}
+.price1 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card1 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 21vw;
+  top: 47.7vw;
+}
+
+
+.soap {
+  top: 5.5vw;
+  left: 26.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo4 {
+  display: inline-grid;;
+  background-image: url('../img/soap.png');
+  background-size: cover;
+}
+.price2 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card2 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 46vw;
+  top: 47.7vw;
+}
+
+
+.book2 {
+  top: 5.5vw;
+  left: 51vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo5 {
+  display: inline-grid;;
+  background-image: url('../img/book2.png');
+  background-size: cover;
+}
+.price3 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card3 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 70.6vw;
+  top: 47.7vw;
+}
+
+
+.socks {
+  top: 5.5vw;
+  left: 75.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo6 {
+  display: inline-grid;;
+  background-image: url('../img/socks.png');
+  background-size: cover;
+}
+.price4 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card4 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 95.2vw;
+  top: 47.7vw;
+}
+
+
+.cup {
+  top: 52.5vw;
+  left: 1.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo7 {
+  display: inline-grid;;
+  background-image: url('../img/cup.png');
+  background-size: cover;
+}
+.price5 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card5 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 21vw;
+  top: 94vw;
+}
+
+
+.shopper {
+  top: 52.5vw;
+  left: 26.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo8 {
+  display: inline-grid;;
+  background-image: url('../img/shopper.png');
+  background-size: cover;
+}
+.price6 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card6 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 46vw;
+  top: 94vw;
+}
+
+
+.t-shirt {
+  top: 52.5vw;
+  left: 51vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo9 {
+  display: inline-grid;;
+  background-image: url('../img/t-shirt.png');
+  background-size: cover;
+}
+.price7 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card7 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 70.6vw;
+  top: 94vw;
+}
+
+
+.tea {
+  top: 52.5vw;
+  left: 75.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo10 {
+  display: inline-grid;;
+  background-image: url('../img/tea.png');
+  background-size: cover;
+}
+.price8 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+  width: 10vw;
+}
+.shopping_card8 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 95.2vw;
+  top: 94vw;
+}
+
+
+.notebook {
+  top: 99.5vw;
+  left: 1.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo11 {
+  display: inline-grid;;
+  background-image: url('../img/notebook.png');
+  background-size: cover;
+}
+.price9 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card9 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 21vw;
+  top: 140vw;
+}
+
+
+.mask {
+  top: 99.5vw;
+  left: 26.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo12 {
+  display: inline-grid;;
+  background-image: url('../img/mask.png');
+  background-size: cover;
+}
+.price10 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card10 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 46vw;
+  top: 140vw;
+}
+
+
+.bottels {
+  top: 99.5vw;
+  left: 51vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo13 {
+  display: inline-grid;;
+  background-image: url('../img/bottels.png');
+  background-size: cover;
+}
+.price11 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card11 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 70.6vw;
+  top: 140vw;
+}
+
+
+.card {
+  top: 99.5vw;
+  left: 75.5vw;
+  margin: 1vw 1.5vw;
+  z-index: 1;
+  display: inline-grid;;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3.30vw;
+  line-height: 9.06vw;
+  color: #FFE602;
+}
+.photo14 {
+  display: inline-grid;;
+  background-image: url('../img/card.png');
+  background-size: cover;
+}
+.price12 {
+  display: inline-grid;;
+  margin: 1vw 0vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+}
+.shopping_card12 {
+  position: absolute;
+  background-image: url('../img/shopping_card.png');
+  background-size: cover;
+  width: 1.8vw;
+  height: 1.5vw;
+  margin: 1vw 0vw;
+  left: 95.2vw;
+  top: 140vw;
+}
+
+.order {
+  text-align: center;
+  width: 30vw;
+  height: 5vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+  border-radius: 27px;
+  position: absolute;
+  top: 148vw;
+  left: 34.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 4.56vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: #fff;
+}
+
+.process {
+  z-index: 6;
+  position: absolute;
+  background-image: url('../img/process.png');
+  background-size: cover;
+  width: 54.3vw;
+  height: 32vw;
+  left: 21vw;
+  top: 113.7vw;
+}
+
+.bottom2 {
+  top: 157vw;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 8.16vw;
+  background-color: black;
+}
+
+}

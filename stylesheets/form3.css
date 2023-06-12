@@ -1,0 +1,180 @@
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+body {
+  /* height: 64.25vw;
+  width: 100vw;
+  background-image: url('../img/11.png');
+  background-position: center center; */
+  background-color: black;
+  background-size: cover;
+}
+
+/* input[type="text"], input[type="tel"], input[type="email"], input[type="password"], select {
+  z-index: 3;
+  position: absolute;
+  height: 6.82vw;
+  border: 1px solid #fff;
+  border-radius: 4px;
+} */
+p {
+  text-align: left;
+  /* color: #fff; */
+}
+input + p {
+  z-index: 6;
+  position: absolute;
+  text-align: left;
+  font-size: 25px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 1.56vw;
+  color: #fff;
+  margin-top: -10px;
+}
+form > div > * {
+  display: inline-block;
+}
+input[type="radio"] {
+  margin-left: 20px;
+  color: #fff;
+}
+
+select {
+  z-index: 5;
+  position: absolute;
+  height: 4.2vw;
+  border: 1px solid #fff;
+  background-color: black;
+  background-size: cover;
+  border-radius: 4px;
+  margin-left: 7.5vw;
+  margin-top: 9vw;
+  width: 84vw;
+  color: #fff;
+}
+
+.name {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 14.5vw;
+}
+.surname {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 20vw;
+}
+.email {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 25.6vw;
+}
+.telephone {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 31.2vw;
+}
+.promocode {
+  z-index: 5;
+  position: absolute;
+  margin-left: 7.5vw;
+  margin-top: 36.8vw;
+}
+input {
+  height: 4.2vw;
+  border: 1px solid #fff;
+  background-color: black;
+  background-size: cover;
+  border-radius: 4px;
+  width: 84vw;
+  color: #fff;
+}
+
+.tin1{
+  z-index: 6;
+  background-image: url('../img/Group10.png');
+  background-size: cover;
+  position: absolute;
+  width: 13.64vw;
+  height: 12.5vw;
+  left: 1vw;
+  top: 5.5vw;
+  rotate: 14.69deg;
+}
+.rubbish_bin {
+  z-index: 6;
+  background-image: url('../img/bin.png');
+  background-size: cover;
+  position: absolute;
+  width: 13.64vw;
+  height: 13.5vw;
+  left: 81.5vw;
+  top: 43.3vw;
+}
+
+.butt {
+  text-align: center;
+  width: 27vw;
+  height: 5vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+  border-radius: 27px;
+  position: absolute;
+  top: 50vw;
+  left: 36.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2vw;
+  line-height: 4.56vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: #fff;
+}
+
+.secret {
+  text-align: center;
+  width: 12vw;
+  height: 3vw;
+  background-color: black;
+  border: 1px solid #FFFFFF;
+  border-radius: 16px;
+  position: absolute;
+  top: 9vw;
+  left: 3.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1vw;
+  line-height: 2.56vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: #fff;
+}
+
+.thanks {
+  z-index: 6;
+  position: absolute;
+  background-image: url('../img/thanks.png');
+  background-size: cover;
+  width: 54.4vw;
+  height: 13.8vw;
+  top: 23.5vw;
+  left: 21.7vw;
+}
+
+.bottom4 {
+  top: 56vw;
+  z-index: 5;
+  position: absolute;
+  width: 100%;
+  display: block;
+  height: 8.16vw;
+  background-color: black;
+}
+
+}
