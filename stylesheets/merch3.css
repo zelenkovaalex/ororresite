@@ -519,10 +519,10 @@ body {
   position: absolute;
   background-image: url('../img/process.png');
   background-size: cover;
-  width: 54.3vw;
-  height: 32vw;
-  left: 21vw;
-  top: 113.7vw;
+  width: 74.3vw;
+  height: 43vw;
+  left: 15vw;
+  top: 90.7vw;
 }
 
 .bottom2 {
@@ -531,7 +531,7 @@ body {
   position: absolute;
   width: 100%;
   display: block;
-  height: 8.16vw;
+  height: 13.16vw;
   background-color: black;
 }
 

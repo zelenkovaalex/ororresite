@@ -22,10 +22,10 @@ body {
 .text1 {
   z-index: 1;
   position: absolute;
-  width: 92.5vw;
+  width: 68.5vw;
   height: 20.34vw;
   margin-left: 6vw;
-  margin-top: 62.09vw;
+  margin-top: 59.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -36,7 +36,7 @@ body {
 .text2 {
   z-index: 1;
   position: absolute;
-  width: 92.5vw;
+  width: 68.5vw;
   height: 15vw;
   margin-left: 6vw;
   margin-top: 87.28vw;
@@ -51,7 +51,7 @@ body {
 .text3 {
   z-index: 1;
   position: absolute;
-  width: 91.45vw;
+  width: 68.45vw;
   height: 10vw;
   margin-left: 6vw;
   margin-top: 185.07vw;
@@ -65,10 +65,10 @@ body {
 .text4 {
   z-index: 1;
   position: absolute;
-  width: 89.45vw;
+  width: 68.45vw;
   height: 10vw;
   margin-left: 6vw;
-  margin-top: 191.95vw;
+  margin-top: 193.95vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -79,10 +79,10 @@ body {
 .text5 {
   z-index: 1;
   position: absolute;
-  width: 91.45vw;
+  width: 68.45vw;
   height: 10vw;
   margin-left: 6vw;
-  margin-top: 202.68vw;
+  margin-top: 205.68vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -93,10 +93,10 @@ body {
 .text6 {
   z-index: 1;
   position: absolute;
-  width: 91.45vw;
+  width: 68.45vw;
   height: 10vw;
   margin-left: 6vw;
-  margin-top: 213.06vw;
+  margin-top: 217.06vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -110,7 +110,7 @@ body {
   width: 31.45vw;
   height: 10vw;
   margin-left: 61.06vw;
-  margin-top: 226.80vw;
+  margin-top: 228.80vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -247,8 +247,8 @@ a {
   position: absolute;
   width: 15vw;
   height: 12.5vw;
-  left: 87.7vw;
-  top: 231vw;
+  left: 83.7vw;
+  top: 233vw;
   rotate: 26deg;
 }
 .apple1:hover {

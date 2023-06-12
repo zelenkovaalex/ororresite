@@ -23,12 +23,11 @@ input + p {
   z-index: 6;
   position: absolute;
   text-align: left;
-  font-size: 25px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 2vw;
-  line-height: 1.56vw;
+  font-size: 3.3vw;
+  line-height: 2.56vw;
   color: #fff;
   margin-top: -10px;
 }
@@ -42,14 +41,14 @@ input[type="radio"] {
 
 select {
   z-index: 5;
-  position: absolute;
-  height: 4.2vw;
+  position: relative;
+  height: 10.2vw;
   border: 1px solid #fff;
   background-color: black;
   background-size: cover;
   border-radius: 4px;
   margin-left: 7.5vw;
-  margin-top: 9vw;
+  margin-top: 23vw;
   width: 84vw;
   color: #fff;
 }
@@ -58,34 +57,34 @@ select {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 14.5vw;
+  margin-top: 1vw;
 }
 .surname {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 20vw;
+  margin-top: 12vw;
 }
 .email {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 25.6vw;
+  margin-top: 24vw;
 }
 .telephone {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 31.2vw;
+  margin-top: 36vw;
 }
 .promocode {
   z-index: 5;
   position: absolute;
   margin-left: 7.5vw;
-  margin-top: 36.8vw;
+  margin-top: 48vw;
 }
 input {
-  height: 4.2vw;
+  height: 10.2vw;
   border: 1px solid #fff;
   background-color: black;
   background-size: cover;
@@ -99,9 +98,9 @@ input {
   background-image: url('../img/Group10.png');
   background-size: cover;
   position: absolute;
-  width: 13.64vw;
-  height: 12.5vw;
-  left: 1vw;
+  width: 15.64vw;
+  height: 14.5vw;
+  left: 2vw;
   top: 5.5vw;
   rotate: 14.69deg;
 }
@@ -113,7 +112,7 @@ input {
   width: 13.64vw;
   height: 13.5vw;
   left: 81.5vw;
-  top: 43.3vw;
+  top: 110.3vw;
 }
 
 .butt {
@@ -124,7 +123,7 @@ input {
   border: 1px solid #FFFFFF;
   border-radius: 27px;
   position: absolute;
-  top: 50vw;
+  top: 103vw;
   left: 36.7vw;
   font-family: 'Inter';
   font-style: normal;
@@ -138,7 +137,7 @@ input {
 
 .secret {
   text-align: center;
-  width: 12vw;
+  width: 15vw;
   height: 3vw;
   background-color: black;
   border: 1px solid #FFFFFF;
@@ -161,19 +160,19 @@ input {
   position: absolute;
   background-image: url('../img/thanks.png');
   background-size: cover;
-  width: 54.4vw;
-  height: 13.8vw;
-  top: 23.5vw;
-  left: 21.7vw;
+  width: 76.4vw;
+  height: 19.8vw;
+  top: 53.5vw;
+  left: 11.7vw;
 }
 
 .bottom4 {
-  top: 56vw;
+  top: 121vw;
   z-index: 5;
   position: absolute;
   width: 100%;
   display: block;
-  height: 8.16vw;
+  height: 13.16vw;
   background-color: black;
 }
 

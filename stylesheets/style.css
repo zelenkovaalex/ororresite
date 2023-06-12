@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* desktop */
-/* @import "header1.css";
+@import "header1.css";
 @import "bottom1.css";
 @import "main1.css";
 @import "about1.css";
 @import "timetable1.css";
 @import "form1.css";
 @import "afishi1.css";
-@import "merch1.css"; */
+@import "merch1.css";
 
 /* tablet */
 @import "header3.css";
@@ -22,7 +22,7 @@
 @import "merch3.css";
 
 /* phone */
-/* @import "header2.css";
+@import "header2.css";
 @import "bottom2.css";
 @import "main2.css";
 @import "about2.css";
@@ -30,4 +30,4 @@
 @import "form2.css";
 @import "afishi2.css";
 @import "merch2.css";
-@import "burger.css"; */
+@import "burger.css";

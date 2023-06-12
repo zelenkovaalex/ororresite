@@ -9,7 +9,7 @@ nav {
   background-color: black;
 }
 nav > .menu-items {
-  width: 105.50vw;
+  width: 95.50vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
