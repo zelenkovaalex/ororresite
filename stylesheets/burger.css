@@ -1,5 +1,5 @@
 @media only screen and (min-width: 390px){
-a {
+.outside > a {
   margin-top: 2vw;
   line-height: 11.16vw;
   color: #fff;
@@ -9,7 +9,7 @@ a {
   font-size: 7vw;
   text-decoration: none;
 }
-a:hover {
+.outside > a:hover {
   line-height: 11.29vw;
   color: #FFE602;
   text-decoration: none;
