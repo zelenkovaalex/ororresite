@@ -1,0 +1,47 @@
+@media only screen and (min-width: 1025px){
+body {
+  background-color: #F9E000;
+  background-size: cover;
+}
+
+.img {
+  background-image: url('../img/404.png');
+  background-size: cover;
+  width: 54vw;
+  height: 25vw;
+  margin: 7vw 24vw;
+}
+
+.textE {
+  position: absolute;
+  height: 77px;
+  left: 28.2vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 3.33vw;
+  line-height: 4.01vw;
+  color: black;
+  text-align: center;
+}
+
+.butt4 {
+  text-align: center;
+  width: 27vw;
+  height: 5vw;
+  border: 5px solid black;
+  border-radius: 27px;
+  position: absolute;
+  top: 50vw;
+  left: 36.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5vw;
+  line-height: 4.56vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: black;
+  text-decoration: none;
+}
+}

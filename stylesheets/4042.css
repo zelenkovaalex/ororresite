@@ -1,0 +1,47 @@
+@media only screen and (max-device-width: 480px) {
+body {
+  background-color: #F9E000;
+  background-size: cover;
+}
+
+.img {
+  background-image: url('../img/404.png');
+  background-size: cover;
+  width: 79vw;
+  height: 37vw;
+  margin: 49vw 11vw;
+}
+
+.textE {
+  position: absolute;
+  height: 77px;
+  left: 28.2vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 3.33vw;
+  line-height: 4.01vw;
+  color: black;
+  text-align: center;
+}
+
+.butt4 {
+  text-align: center;
+  width: 43vw;
+  height: 9vw;
+  border: 2px solid black;
+  border-radius: 10px;
+  position: absolute;
+  top: 147vw;
+  left: 29.7vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.5vw;
+  line-height: 4.56vw;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  color: black;
+  text-decoration: none;
+}
+}

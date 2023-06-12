@@ -10,6 +10,7 @@
 @import "form1.css";
 @import "afishi1.css";
 @import "merch1.css";
+@import "4041.css";
 
 /* tablet */
 @import "header3.css";
@@ -20,6 +21,7 @@
 @import "form3.css";
 @import "afishi3.css";
 @import "merch3.css";
+@import "4043.css";
 
 /* phone */
 @import "header2.css";
@@ -31,3 +33,4 @@
 @import "afishi2.css";
 @import "merch2.css";
 @import "burger.css";
+@import "4042.css";
