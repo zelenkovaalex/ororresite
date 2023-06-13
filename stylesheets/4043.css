@@ -1,16 +1,13 @@
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
-body {
-  background-color: #F9E000;
-  background-size: cover;
-}
 
-.img {
-  background-image: url('../img/404.png');
-  background-size: cover;
-  width: 73vw;
-  height: 33.5vw;
-  margin: 19vw 13vw;
-}
+
+  .inside > .img {
+    background-image: url('../img/404.png');
+    background-size: cover;
+    width: 73vw;
+    height: 33.5vw;
+    margin: 19vw 13vw;
+  }
 
 .textE {
   position: absolute;

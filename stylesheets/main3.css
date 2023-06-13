@@ -109,9 +109,9 @@ body {
   background-image: url('../img/Exclude.png');
   background-size: cover;
   position: absolute;
-  width: 105vw;
-  height: 84.8vw;
-  left: 5vw;
+  width: 92vw;
+  height: 73.8vw;
+  left: 3vw;
   top: 32.6vw;
 }
 .bag:hover {
@@ -166,7 +166,7 @@ body {
   position: absolute;
   width: 39.64vw;
   height: 36.5vw;
-  left: 72vw;
+  left: 60vw;
   top: 111.5vw;
 }
 .tin:hover {
@@ -179,8 +179,8 @@ body {
   position: absolute;
   width: 35.8vw;
   height: 38vw;
-  left: 75.5vw;
-  top: 6.5vw;
+  left: 61.5vw;
+  top: 10.5vw;
 }
 .coffee_cup:hover {
   opacity: 0%;
@@ -192,7 +192,7 @@ body {
   position: absolute;
   width: 28vw;
   height: 51.5vw;
-  left: 75.1vw;
+  left: 56.1vw;
   top: 77.5vw;
   transform: rotate(58deg);
 }
@@ -237,7 +237,7 @@ body {
   position: absolute;
   width: 49vw;
   height: 32.7vw;
-  left: 62.2vw;
+  left: 47.2vw;
   top: 45.7vw;
 }
 .big_jar:hover {
@@ -250,7 +250,7 @@ body {
   position: absolute;
   width: 27.5vw;
   height: 37.5vw;
-  left: 62.3vw;
+  left: 60.3vw;
   top: 65.7vw;
   transform: rotate(117deg);
 }

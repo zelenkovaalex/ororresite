@@ -1,15 +1,12 @@
 @media only screen and (min-width: 1025px){
-body {
-  background-color: #F9E000;
-  background-size: cover;
-}
 
-.img {
+
+.inside > .img {
   background-image: url('../img/404.png');
   background-size: cover;
-  width: 54vw;
-  height: 25vw;
-  margin: 7vw 24vw;
+  width: 73vw;
+  height: 33.5vw;
+  margin: 6vw 13vw;
 }
 
 .textE {
@@ -26,13 +23,13 @@ body {
 }
 
 .butt4 {
+  position: absolute;
   text-align: center;
   width: 27vw;
   height: 5vw;
   border: 5px solid black;
   border-radius: 27px;
-  position: absolute;
-  top: 50vw;
+  top: 56vw;
   left: 36.7vw;
   font-family: 'Inter';
   font-style: normal;

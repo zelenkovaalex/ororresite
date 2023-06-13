@@ -254,7 +254,7 @@ body {
     100% {transform: translateX(-50%)}
 }
 
-.bottom2 {
+.b2 > .bottom2 {
   top: 291vw;
   z-index: 5;
   position: absolute;

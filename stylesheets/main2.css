@@ -110,10 +110,10 @@ body {
   background-image: url('../img/Exclude.png');
   background-size: cover;
   position: absolute;
-  width: 101.89vw;
-  height: 82.82vw;
+  width: 98.89vw;
+  height: 79.82vw;
   left: -1vw;
-  top: 71.43vw;
+  top: 75.43vw;
   transform: rotate(-8.06deg);
 }
 .bag:hover {
@@ -154,7 +154,7 @@ body {
   position: absolute;
   width: 30.73vw;
   height: 58.09vw;
-  left: 55.05vw;
+  left: 52.05vw;
   top: 6.08vw;
   transform: rotate(326deg);
 }
@@ -168,7 +168,7 @@ body {
   position: absolute;
   width: 47.64vw;
   height: 43.96vw;
-  left: 50.56vw;
+  left: 41.56vw;
   top: 175.04vw;
   transform: rotate(13.41deg);
 }
@@ -182,7 +182,7 @@ body {
   position: absolute;
   width: 50.57vw;
   height: 54.35vw;
-  left: 53.86vw;
+  left: 38.86vw;
   top: 49.21vw;
   transform: rotate(51.67deg);
 }
@@ -196,7 +196,7 @@ body {
   position: absolute;
   width: 34.99vw;
   height: 63.83vw;
-  left: 58.9vw;
+  left: 46.9vw;
   top: 129.77vw;
   transform: rotate(40deg);
 }
