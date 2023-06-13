@@ -13,15 +13,16 @@ body {
 
 /* 1st */
 .d6th {
+  position: relative;
   display: grid;
-  margin-left: 56.77vw;
-  margin-top: 5.09vw;
+  margin-left: 52.77vw;
+  margin-top: 3.09vw;
 }
 .date1 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -36,15 +37,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text8 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -55,25 +56,26 @@ body {
 }
 .line1 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 /* 2nd */
 .d10th {
+  position: relative;
   display: grid;
-  margin-left: 56.77vw;
+  margin-left: 52.77vw;
   margin-top: 6.09vw;
 }
 .date2 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -88,15 +90,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text9 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -107,25 +109,26 @@ body {
 }
 .line2 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 /* 3rd */
 .d15th {
+  position: relative;
   display: grid;
-  margin-left: 56.77vw;
+  margin-left: 52.77vw;
   margin-top: 6.09vw;
 }
 .date3 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -140,15 +143,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text10 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -159,25 +162,26 @@ body {
 }
 .line3 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 /* 4th */
 .d20th {
+  position: relative;
   display: grid;
-  margin-left: 56.77vw;
+  margin-left: 52.77vw;
   margin-top: 6.09vw;
 }
 .date4 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -192,15 +196,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text11 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -211,25 +215,26 @@ body {
 }
 .line4 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 /* 5th */
 .d25th {
+  position: relative;
   display: grid;
-  margin-left: 56.77vw;
+  margin-left: 52.77vw;
   margin-top: 6.09vw;
 }
 .date5 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -244,15 +249,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text12 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -263,25 +268,26 @@ body {
 }
 .line5 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 /* 6th */
 .d1st {
+  position: relative;
   display: grid;
-  margin-left: 56.77vw;
+  margin-left: 52.77vw;
   margin-top: 6.09vw;
 }
 .date6 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -296,15 +302,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text13 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -315,25 +321,26 @@ body {
 }
 .line6 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 /* 7th */
 .d5th {
+  position: relative;
   display: grid;
-  margin-left: 7.77vw;
-  margin-top: 14.09vw;
+  margin-left: 52.77vw;
+  margin-top: 6.09vw;
 }
 .date7 {
   z-index: 1;
   position: absolute;
   width: 38.5vw;
-  height: 17.34vw;
+  height: 2.34vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -348,15 +355,15 @@ body {
   position: absolute;
   width: 1.64vw;
   height: 1.64vw;
-  left: 100vw;
-  top: 13.9vw;
+  left: 38vw;
+  top: 0vw;
 }
 .text14 {
   z-index: 1;
   position: absolute;
   width: 32.5vw;
-  height: 17.34vw;
-  margin-left: 56.77vw;
+  height: 2.34vw;
+  margin-left: 52.77vw;
   margin-top: 19.09vw;
   font-family: 'Inter';
   font-style: normal;
@@ -367,16 +374,16 @@ body {
 }
 .line7 {
   position: absolute;
-  width: 46.72vw;
+  width: 41.72vw;
   height: 1px;
-  left: 56vw;
-  top: 18vw;
+  left: 0vw;
+  top: 4vw;
   background-color: #fff;
   border: 1px solid #FFFFFF;
 }
 
 .bottom3 {
-  top: 56vw;
+  top: 50vw;
   z-index: 5;
   position: absolute;
   width: 100%;
