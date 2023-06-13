@@ -1,5 +1,5 @@
 @media only screen and (max-device-width: 480px) {
-.outside > a {
+.outside > .tb {
   margin-top: 2vw;
   line-height: 11.16vw;
   color: #fff;
@@ -9,7 +9,7 @@
   font-size: 7vw;
   text-decoration: none;
 }
-.outside > a:hover {
+.outside > .tb:hover {
   line-height: 11.29vw;
   color: #FFE602;
   text-decoration: none;
