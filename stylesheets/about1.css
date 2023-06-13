@@ -25,7 +25,7 @@ body {
   width: 38.5vw;
   height: 17.34vw;
   margin-left: 56.77vw;
-  margin-top: 14.09vw;
+  margin-top: 8.09vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -39,7 +39,7 @@ body {
   width: 39vw;
   height: 10vw;
   margin-left: 56.77vw;
-  margin-top: 32.28vw;
+  margin-top: 26.28vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -212,7 +212,7 @@ body {
 
 .watermalon1 {
   z-index: 1;
-  background-image: url('../img/group13.png');
+  background-image: url('../img/Group13.png');
   background-size: cover;
   position: absolute;
   width: 20.64vw;
@@ -227,7 +227,7 @@ body {
 
 .fish1 {
   z-index: 2;
-  background-image: url('../img/vector49.png');
+  background-image: url('../img/Vector49.png');
   background-size: cover;
   position: absolute;
   width: 8.8vw;
@@ -242,7 +242,7 @@ body {
 
 .apple1 {
   z-index: 3;
-  background-image: url('../img/group11.png');
+  background-image: url('../img/Group11.png');
   background-size: cover;
   position: absolute;
   width: 13vw;
