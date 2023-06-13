@@ -1,7 +1,12 @@
 $(document).ready(function() {
 
 // timetable
-
+$(".plus1").click(function() {
+  $(".text8").removeClass("none");
+});
+$(".plus1").click(function() {
+  $(".text8").addClass("none");
+});
 
 
 // form

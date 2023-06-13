@@ -19,14 +19,15 @@ p {
   /* text-align: left; */
   /* color: #fff; */
 }
-input + p {
+input, select {
   z-index: 6;
   position: absolute;
   text-align: left;
+  font-size: 25px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 3.3vw;
+  font-size: 2.5vw;
   line-height: 2.56vw;
   color: #fff;
   margin-top: -10px;
