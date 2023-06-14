@@ -135,6 +135,7 @@ input {
   -moz-text-align-last: center;
        text-align-last: center;
   color: #fff;
+  cursor: pointer;
 }
 
 .secret {

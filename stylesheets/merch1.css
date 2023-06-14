@@ -13,6 +13,7 @@ body {
   width: 98vw;
   height: 135vw;
   flex-wrap: wrap;
+  cursor: pointer;
 }
 
 .pp {
@@ -311,6 +312,7 @@ body {
   -moz-text-align-last: center;
        text-align-last: center;
   color: #fff;
+  cursor: pointer;
 }
 
 .process {
@@ -321,7 +323,7 @@ body {
   width: 54.3vw;
   height: 32vw;
   left: 21vw;
-  top: 113.7vw;
+  top: 109.7vw;
 }
 
 .b2 {

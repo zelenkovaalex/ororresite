@@ -227,14 +227,17 @@ body {
 .button1 {
   margin-left: 2.38vw;
   margin-top: -1.99vw;
+  cursor: pointer;
 }
 .button2 {
   margin-left: 3.5vw;
   margin-top: -2.01vw;
+  cursor: pointer;
 }
 .button3 {
   margin-left: 69.38vw;
   margin-top: -9.8vw;
+  cursor: pointer;
 }
 
 .bb {

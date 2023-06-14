@@ -76,6 +76,7 @@ body {
   height: 1.64vw;
   left: 38vw;
   top: 1.5vw;
+  cursor: pointer;
 }
 
 /* data */

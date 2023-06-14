@@ -27,7 +27,7 @@ $(".plus7").click(function() {
 // form
 
 $(".butt").click(function() {
-  $(".thanks").removeClass("none");
+  $(".thanks").toggleClass("none");
 });
 
 $(".tin1").draggable(function () {
@@ -40,7 +40,7 @@ $(".tin1").droppable(function () {
 // merch
 
 $(".order").click(function() {
-  $(".process").removeClass("none");
+  $(".process").toggleClass("none");
 });
 
 // afishi
