@@ -8,20 +8,14 @@ body {
   background-size: cover;
 }
 
-/* input[type="text"], input[type="tel"], input[type="email"], input[type="password"], select {
-  z-index: 3;
-  position: absolute;
-  height: 6.82vw;
-  border: 1px solid #fff;
-  border-radius: 4px;
-} */
-p {
-  /* text-align: left; */
-  /* color: #fff; */
+.bigF {
+  display: flex;
 }
+
 input, select {
   z-index: 6;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   text-align: left;
   font-size: 25px;
   font-family: 'Inter';
@@ -42,50 +36,56 @@ input[type="radio"] {
 
 select {
   z-index: 5;
-  position: absolute;
-  height: 4.2vw;
+  display: flex;
+  flex-direction: column;
+  height: 3.5vw;
   border: 1px solid #fff;
   background-color: black;
   background-size: cover;
   border-radius: 4px;
   margin-left: 7.5vw;
-  margin-top: 9vw;
+  margin-top: 6vw;
   width: 84vw;
   color: #fff;
 }
 
 .name {
   z-index: 5;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   margin-left: 7.5vw;
-  margin-top: 14.5vw;
+  margin-top: 1.5vw;
 }
 .surname {
   z-index: 5;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   margin-left: 7.5vw;
-  margin-top: 20vw;
+  margin-top: 1.5vw;
 }
 .email {
   z-index: 5;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   margin-left: 7.5vw;
-  margin-top: 25.6vw;
+  margin-top: 1.5vw;
 }
 .telephone {
   z-index: 5;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   margin-left: 7.5vw;
-  margin-top: 31.2vw;
+  margin-top: 1.5vw;
 }
 .promocode {
   z-index: 5;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   margin-left: 7.5vw;
-  margin-top: 36.8vw;
+  margin-top: 1.5vw;
 }
 input {
-  height: 4.2vw;
+  height: 3.5vw;
   border: 1px solid #fff;
   background-color: black;
   background-size: cover;
@@ -101,9 +101,9 @@ input {
   position: absolute;
   width: 13.64vw;
   height: 12.5vw;
-  left: 1vw;
-  top: 5.5vw;
-  rotate: 14.69deg;
+  left: 2vw;
+  top: 2.5vw;
+  rotate: 30deg;
 }
 .rubbish_bin {
   z-index: 6;
@@ -113,19 +113,20 @@ input {
   width: 13.64vw;
   height: 13.5vw;
   left: 81.5vw;
-  top: 43.3vw;
+  top: 37.3vw;
 }
 
 .butt {
+  display: inline-grid;
+  margin-top: 3vw;
+  margin-bottom: 1.5vw;
+  margin-left: 36vw;
   text-align: center;
   width: 27vw;
   height: 5vw;
   background-color: black;
   border: 1px solid #FFFFFF;
   border-radius: 27px;
-  position: absolute;
-  top: 50vw;
-  left: 36.7vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -144,7 +145,7 @@ input {
   border: 1px solid #FFFFFF;
   border-radius: 16px;
   position: absolute;
-  top: 9vw;
+  top: 7vw;
   left: 3.7vw;
   font-family: 'Inter';
   font-style: normal;
@@ -167,14 +168,8 @@ input {
   left: 21.7vw;
 }
 
-.bottom4 {
+.b4 {
   top: 56vw;
-  z-index: 5;
-  position: absolute;
-  width: 100%;
-  display: block;
-  height: 8.16vw;
-  background-color: black;
 }
 
 }

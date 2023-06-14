@@ -159,14 +159,8 @@ input {
   left: 18.7vw;
 }
 
-.bottom4 {
+.b4 {
   top: 214vw;
-  z-index: 5;
-  position: absolute;
-  width: 100%;
-  display: block;
-  height: 11.16vw;
-  background-color: black;
 }
 
 }

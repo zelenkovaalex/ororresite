@@ -2,10 +2,25 @@ $(document).ready(function() {
 
 // timetable
 $(".plus1").click(function() {
-  $(".text8").removeClass("none");
+  $(".textH1").toggleClass("none");
 });
-$(".plus1").click(function() {
-  $(".text8").addClass("none");
+$(".plus2").click(function() {
+  $(".textH2").toggleClass("none");
+});
+$(".plus3").click(function() {
+  $(".textH3").toggleClass("none");
+});
+$(".plus4").click(function() {
+  $(".textH4").toggleClass("none");
+});
+$(".plus5").click(function() {
+  $(".textH5").toggleClass("none");
+});
+$(".plus6").click(function() {
+  $(".textH6").toggleClass("none");
+});
+$(".plus7").click(function() {
+  $(".textH7").toggleClass("none");
 });
 
 

@@ -254,13 +254,7 @@ body {
     100% {transform: translateX(-50%)}
 }
 
-.b2 > .bottom2 {
+.b3 {
   top: 291vw;
-  z-index: 5;
-  position: absolute;
-  width: 100%;
-  display: block;
-  height: 11.16vw;
-  background-color: black;
 }
 }

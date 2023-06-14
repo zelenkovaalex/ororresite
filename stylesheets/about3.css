@@ -324,14 +324,8 @@ body {
   border-radius: 40px;
 }
 
-.bottom1 {
+.b5 {
   top: 291vw;
-  z-index: 5;
-  position: absolute;
-  width: 100%;
-  display: block;
-  height: 13.16vw;
-  background-color: black;
 }
 
 }

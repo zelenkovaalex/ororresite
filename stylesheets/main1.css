@@ -14,25 +14,14 @@ body {
   margin-top: 19vw;
   margin-left: 13vw;
 }
-.hello {
-  text-align: left;
-  position: absolute;
-  width: 77vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 900;
-  font-size: 144px;
-  line-height: 174px;
-  color: #FFE602;
-}
-.orrore {
-  background-image: url('../img/Group7.png');
+.back_text {
+  background-image: url('../img/back_text.png');
   background-size: cover;
   position: absolute;
-  width: 34.64vw;
-  height: 7.50vw;
-  left: 6.43vw;
-  top: 9.58vw;
+  width: 75.64vw;
+  height: 17.50vw;
+  left: -0.43vw;
+  top: 2.58vw;
 }
 
 /* trash */

@@ -1,11 +1,7 @@
 @media only screen and (min-width: 1025px){
 .abauthor {
   z-index: 1;
-  position: absolute;
   width: 5vw;
-  height: 5vw;
-  margin-left: 2vw;
-  margin-top: 2vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -15,11 +11,7 @@
 }
 .abteachers {
   z-index: 1;
-  position: absolute;
-  width: 13vw;
-  height: 5vw;
-  margin-left: 13vw;
-  margin-top: 2vw;
+  margin-left: 4vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -31,10 +23,21 @@
   z-index: 0;
   background-image: url('../img/hse.png');
   background-size: cover;
-  position: absolute;
   width: 13vw;
   height: 5.5vw;
-  left: 85vw;
-  top: 1.5vw;
+  margin-right: 2vw;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.creators {
+  margin-left: 2vw;
+  display: inline-flex;
+  justify-content: space-between;
+}
+.creators, .hse {
+  margin-top: 1.5vw;
+  margin-bottom: 1.5vw;
 }
 }
