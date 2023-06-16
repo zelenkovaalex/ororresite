@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 /* desktop */
-/* @import "header1.css";
+@import "header1.css";
 @import "bottom1.css";
 @import "main1.css";
 @import "about1.css";
@@ -10,10 +10,10 @@
 @import "form1.css";
 @import "afishi1.css";
 @import "merch1.css";
-@import "4041.css"; */
+@import "4041.css";
 
 /* tablet */
-/* @import "header3.css";
+@import "header3.css";
 @import "bottom3.css";
 @import "main3.css";
 @import "about3.css";
@@ -21,7 +21,7 @@
 @import "form3.css";
 @import "afishi3.css";
 @import "merch3.css";
-@import "4043.css"; */
+@import "4043.css";
 
 /* phone */
 @import "header2.css";

@@ -1,90 +1,62 @@
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
 body {
-  /* height: 64.25vw;
-  width: 100vw;
-  background-image: url('../img/11.png');
-  background-position: center center; */
   background-color: black;
   background-size: cover;
 }
 
-/* input[type="text"], input[type="tel"], input[type="email"], input[type="password"], select {
-  z-index: 3;
-  position: absolute;
-  height: 6.82vw;
-  border: 1px solid #fff;
-  border-radius: 4px;
-} */
-p {
-  /* text-align: left; */
-  /* color: #fff; */
+
+.bigF {
+ display: flex;
+ margin-top: -6vw;
 }
+
 input, select {
-  z-index: 6;
-  position: absolute;
+  display: flex;
   text-align: left;
-  font-size: 25px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 2.56vw;
+  font-size: 1.5vw;
+  line-height: 1.56vw;
   color: #fff;
   margin-top: -10px;
 }
+
 form > div > * {
   display: inline-block;
 }
+
 input[type="radio"] {
-  margin-left: 20px;
+  margin-left: 6px;
   color: #fff;
 }
 
 select {
+  text-align: center;
+  font-size: 20px;
   z-index: 5;
-  position: relative;
+  display: flex;
+  flex-direction: column;
   height: 10.2vw;
   border: 1px solid #fff;
   background-color: black;
   background-size: cover;
   border-radius: 4px;
   margin-left: 7.5vw;
-  margin-top: 23vw;
-  width: 84vw;
+  width: 85vw;
   color: #fff;
 }
 
-.name {
+.name, .surname, .email, .telephone, .promocode {
   z-index: 5;
-  position: absolute;
+  display: flex;
+  flex-direction: column;
   margin-left: 7.5vw;
-  margin-top: 1vw;
+  margin-top: 2vw;
 }
-.surname {
-  z-index: 5;
-  position: absolute;
-  margin-left: 7.5vw;
-  margin-top: 12vw;
-}
-.email {
-  z-index: 5;
-  position: absolute;
-  margin-left: 7.5vw;
-  margin-top: 24vw;
-}
-.telephone {
-  z-index: 5;
-  position: absolute;
-  margin-left: 7.5vw;
-  margin-top: 36vw;
-}
-.promocode {
-  z-index: 5;
-  position: absolute;
-  margin-left: 7.5vw;
-  margin-top: 48vw;
-}
+
 input {
+  font-size: 20px;
   height: 10.2vw;
   border: 1px solid #fff;
   background-color: black;
@@ -98,58 +70,52 @@ input {
   z-index: 6;
   background-image: url('../img/Group10.png');
   background-size: cover;
-  position: absolute;
-  width: 15.64vw;
-  height: 14.5vw;
-  left: 2vw;
-  top: 5.5vw;
-  rotate: 14.69deg;
+  display: flex;
+  width: 30.64vw;
+  height: 28.5vw;
+  left: 69vw;
+  top: 98.5vw;
+}
+.tin1:hover {
+  opacity: 0%;
 }
 .rubbish_bin {
-  z-index: 6;
-  background-image: url('../img/bin.png');
-  background-size: cover;
-  position: absolute;
-  width: 13.64vw;
-  height: 13.5vw;
-  left: 81.5vw;
-  top: 110.3vw;
+  display: none;
 }
 
 .butt {
-  text-align: center;
-  width: 27vw;
-  height: 5vw;
+  display: inline-grid;
+  width: 35vw;
+  height: 8vw;
   background-color: black;
   border: 1px solid #FFFFFF;
-  border-radius: 27px;
-  position: absolute;
-  top: 103vw;
-  left: 36.7vw;
+  border-radius: 10px;
+  margin-top: 5vw;
+  margin-left: 34.7vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 2vw;
-  line-height: 4.56vw;
+  font-size: 3vw;
+  line-height: 4vw;
   -moz-text-align-last: center;
        text-align-last: center;
   color: #fff;
 }
 
 .secret {
+  position: absolute;
   text-align: center;
-  width: 15vw;
-  height: 3vw;
+  width: 28vw;
+  height: 8vw;
   background-color: black;
   border: 1px solid #FFFFFF;
-  border-radius: 16px;
-  position: absolute;
-  top: 9vw;
+  border-radius: 5px;
+  top: 12vw;
   left: 3.7vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 1vw;
+  font-size: 2.5vw;
   line-height: 2.56vw;
   -moz-text-align-last: center;
        text-align-last: center;
@@ -161,14 +127,14 @@ input {
   position: absolute;
   background-image: url('../img/thanks.png');
   background-size: cover;
-  width: 76.4vw;
-  height: 19.8vw;
-  top: 53.5vw;
-  left: 11.7vw;
+  width: 86.4vw;
+  height: 21.9vw;
+  top: 56.5vw;
+  left: 7vw;
 }
 
 .b4 {
-  top: 121vw;
+  margin-top: 14vw;
 }
 
 }

@@ -49,41 +49,14 @@ select {
   color: #fff;
 }
 
-.name {
+.name, .surname, .email, .telephone, .promocode {
   z-index: 5;
   display: flex;
   flex-direction: column;
   margin-left: 7.5vw;
   margin-top: 1.5vw;
 }
-.surname {
-  z-index: 5;
-  display: flex;
-  flex-direction: column;
-  margin-left: 7.5vw;
-  margin-top: 1.5vw;
-}
-.email {
-  z-index: 5;
-  display: flex;
-  flex-direction: column;
-  margin-left: 7.5vw;
-  margin-top: 1.5vw;
-}
-.telephone {
-  z-index: 5;
-  display: flex;
-  flex-direction: column;
-  margin-left: 7.5vw;
-  margin-top: 1.5vw;
-}
-.promocode {
-  z-index: 5;
-  display: flex;
-  flex-direction: column;
-  margin-left: 7.5vw;
-  margin-top: 1.5vw;
-}
+
 input {
   height: 3.5vw;
   border: 1px solid #fff;

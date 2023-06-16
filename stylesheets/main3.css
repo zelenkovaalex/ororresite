@@ -1,9 +1,5 @@
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
 body {
-  /* height: 56.25vw;
-  width: 100vw;
-  background-image: url('../img/main.png');
-  background-position: center center; */
   background-color: black;
   background-size: cover;
 }

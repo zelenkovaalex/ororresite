@@ -1,4 +1,4 @@
-@media only screen and (max-device-width: 480px) {
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
 body {
   background-color: black;
   background-size: cover;
@@ -51,7 +51,7 @@ body {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 7vw;
+  font-size: 6vw;
   line-height: 7vw;
   color: #fff;
 }
@@ -65,7 +65,7 @@ body {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 5.30vw;
+  font-size: 4.30vw;
   color: #fff;
 }
 
@@ -81,6 +81,6 @@ body {
 }
 
 .b {
-  margin-top: 78vw;
+  margin-top: 31vw;
 }
 }

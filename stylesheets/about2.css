@@ -3,7 +3,7 @@ body {
   background-color: black;
   background-size: cover;
 }
-
+ 
 .first, .second, .third {
   display: flex;
   width: 98vw;
