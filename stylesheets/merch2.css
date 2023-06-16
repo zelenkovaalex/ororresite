@@ -1,517 +1,327 @@
 @media only screen and (max-device-width: 480px) {
 body {
-  /* height: 185.63vw;
-  width: 100vw;
-  background-image: url('../img/10.png');
-  background-position: center center; */
   background-color: black;
   background-size: cover;
 }
 
+.shopping {
+  display: flex;
+  width: 100vw;
+  height: 135vw;
+  flex-wrap: wrap;
+}
+
 .pp {
-  width: 29.5vw;
-  height: 42.5vw;
+  width: 44.5vw;
+  height: 63.5vw;
   top: 7.2vw;
 }
 
-.diffuser {
-  top: 5.5vw;
-  left: 1.5vw;
-  margin: 1vw 1.5vw;
-  z-index: 1;
-  display: inline-grid;;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 900;
-  font-size: 3.30vw;
-  line-height: 6.30vw;
-  color: #FFE602;
-}
-.photo3 {
-  display: inline-grid;;
-  background-image: url('../img/diffuser.png');
+.sh {
+  background-image: url('../img/shopping_card.png');
   background-size: cover;
+  display: flex;
+  width: 3.8vw;
+  height: 3.1vw;
+  margin-top: -4.5vw;
+  margin-left: 40.6vw;
 }
-.price1 {
-  display: inline-grid;;
+
+.price {
+  display: flex;
   margin: 1vw 0vw;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
+  font-size: 3.5vw;
+  line-height: 3.56vw;
   color: #fff;
 }
-.shopping_card1 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 27.5vw;
-  top: 61.4vw;
+
+
+.diffuser {
+  top: 5.5vw;
+  left: 1.5vw;
+  margin: 1vw 2.5vw;
+  z-index: 1;
+  display:flex;
+  flex-direction: column;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 5.30vw;
+  line-height: 6.30vw;
+  color: #FFE602;
 }
+.photo3 {
+  display:flex;
+  background-image: url('../img/diffuser.png');
+  background-size: cover;
+}
+
 
 
 .soap {
   top: 5.5vw;
   left: 26.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo4 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/soap.png');
   background-size: cover;
 }
-.price2 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card2 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 61vw;
-  top: 61.4vw;
-}
+
 
 
 .book2 {
   top: 5.5vw;
   left: 51vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+    flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo5 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/book2.png');
   background-size: cover;
 }
-.price3 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card3 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 94.4vw;
-  top: 61.4vw;
-}
+
 
 
 .socks {
   top: 5.5vw;
   left: 75.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo6 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/socks.png');
   background-size: cover;
 }
-.price4 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card4 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 27.5vw;
-  top: 116vw;
-}
+
 
 
 .cup {
   top: 52.5vw;
   left: 1.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo7 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/cup.png');
   background-size: cover;
 }
-.price5 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card5 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 61vw;
-  top: 116vw;
-}
+
 
 
 .shopper {
   top: 52.5vw;
   left: 26.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo8 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/shopper.png');
   background-size: cover;
 }
-.price6 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card6 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 94.5vw;
-  top: 116vw;
-}
+
 
 
 .t-shirt {
   top: 52.5vw;
   left: 51vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo9 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/t-shirt.png');
   background-size: cover;
 }
-.price7 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card7 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 27.5vw;
-  top: 170vw;
-}
+
 
 
 .tea {
   top: 52.5vw;
   left: 75.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo10 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/tea.png');
   background-size: cover;
 }
-.price8 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-  width: 10vw;
-}
-.shopping_card8 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 61vw;
-  top: 170vw;
-}
+
 
 
 .notebook {
   top: 99.5vw;
   left: 1.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo11 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/notebook.png');
   background-size: cover;
 }
-.price9 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card9 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 94.5vw;
-  top: 170vw;
-}
+
 
 
 .mask {
   top: 99.5vw;
   left: 26.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo12 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/mask.png');
   background-size: cover;
 }
-.price10 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card10 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 27.5vw;
-  top: 226vw;
-}
+
 
 
 .bottels {
   top: 99.5vw;
   left: 51vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo13 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/bottels.png');
   background-size: cover;
 }
-.price11 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card11 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 61vw;
-  top: 226vw;
-}
+
 
 
 .card {
   top: 99.5vw;
   left: 75.5vw;
-  margin: 1vw 1.5vw;
+  margin: 1vw 2.5vw;
   z-index: 1;
-  display: inline-grid;;
+  display:flex;
+  flex-direction: column;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
-  font-size: 3.30vw;
+  font-size: 5.30vw;
   line-height: 6.30vw;
   color: #FFE602;
 }
 .photo14 {
-  display: inline-grid;;
+  display:flex;
   background-image: url('../img/card.png');
   background-size: cover;
 }
-.price12 {
-  display: inline-grid;;
-  margin: 1vw 0vw;
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 2.5vw;
-  line-height: 1.56vw;
-  color: #fff;
-}
-.shopping_card12 {
-  position: absolute;
-  background-image: url('../img/shopping_card.png');
-  background-size: cover;
-  width: 3.3vw;
-  height: 2.7vw;
-  margin: 1vw 0vw;
-  left: 94.5vw;
-  top: 226vw;
-}
+
 
 .order {
+  display: inline-grid;
+  margin-top: 328vw;
+  margin-left: 34vw;
+  margin-bottom: 2vw;
   text-align: center;
   width: 34vw;
-  height: 6vw;
+  height: 7vw;
   background-color: black;
   border: 1px solid #FFFFFF;
-  border-radius: 27px;
-  position: absolute;
-  top: 235vw;
-  left: 31.7vw;
+  border-radius: 10px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
-  font-size: 2.5vw;
+  font-size: 3vw;
   line-height: 4.56vw;
   -moz-text-align-last: center;
        text-align-last: center;
   color: #fff;
+  cursor: pointer;
 }
 
 .process {
@@ -519,14 +329,13 @@ body {
   position: absolute;
   background-image: url('../img/process.png');
   background-size: cover;
-  width: 54.3vw;
-  height: 32vw;
-  left: 23vw;
-  top: 198.7vw;
+  width: 78.3vw;
+  height: 46.2vw;
+  left: 13vw;
+  top: 414.7vw;
 }
 
 .b2 {
-  top: 242vw;
+  margin-top: 4vw;
 }
-
 }

@@ -9,7 +9,7 @@ nav {
   background-color: black;
 }
 nav > .menu-items {
-  width: 101.50vw;
+  width: 98vw;
   margin-left: 2vw;
   margin-top: 1vw;
   display: flex;
@@ -60,7 +60,7 @@ nav > .menu-items > a:nth-child(1) {
 }
 nav > .menu-items > a:nth-child(7) {
   line-height: 11.16vw;
-  width: 15.5vw;
+  width: 5.5vw;
   height: 5.5vw;
   background-repeat: no-repeat;
   background-image: url('../img/Group8.png');

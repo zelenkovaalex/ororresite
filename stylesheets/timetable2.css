@@ -1,0 +1,89 @@
+@media only screen and (max-device-width: 480px) {
+body {
+  background-color: black;
+  background-size: cover;
+}
+.none {
+  display: none;
+}
+
+.timetable {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2vw;
+}
+
+/* div's podition */
+.d6th {
+  width: 96vw;
+}
+.d10th, .d15th, .d20th, .d25th, .d1st, .d5th {
+  border-top: 2px solid #FFFFFF;
+  width: 96vw;
+}
+.timetable > div:nth-of-type(odd) {
+  height: 10vw;
+  display: flex;
+  padding-top: 2vw;
+}
+.timetable > div:nth-of-type(even) {
+  padding-bottom: 2.5vw;
+}
+
+/* pluses */
+.plus {
+  z-index: 1;
+  background-image: url('../img/plus.png');
+  background-size: cover;
+  width: 3.64vw;
+  height: 3.64vw;
+  margin-left: 52vw;
+  margin-top: 2.5vw;
+  cursor: pointer;
+}
+
+/* data */
+.date1, .date2, .date3, .date4, .date5, .date6, .date7 {
+  z-index: 1;
+  top: 1.5vw;
+  width: 38.5vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7vw;
+  line-height: 7vw;
+  color: #fff;
+}
+
+
+/* text1 */
+.textT {
+  padding-bottom: 1.5vw;
+  z-index: 1;
+  width: 70.5vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 5.30vw;
+  color: #fff;
+}
+
+/* text2 */
+.t {
+  z-index: 1;
+  width: 70.5vw;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 3.5vw;
+  color: #fff;
+}
+
+.b {
+  margin-top: 78vw;
+}
+
+}
+}
+}
