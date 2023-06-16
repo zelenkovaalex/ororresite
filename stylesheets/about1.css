@@ -62,23 +62,23 @@ body {
 
 .text3 {
   margin-left: 6.35vw;
-  margin-top: -4.07vw;
+  margin-top: -35.07vw;
 }
 .text4 {
   margin-left: -37.35vw;
-  margin-top: 1.95vw;
+  margin-top: -29vw;
 }
 .text5   {
   margin-left: -37.35vw;
-  margin-top: 9.68vw;
+  margin-top: -21.68vw;
 }
 .text6 {
   margin-left: -37.35vw;
-  margin-top: 17.06vw;
+  margin-top: -13.06vw;
 }
 .text7 {
   margin-left: -6.35vw;
-  margin-top: 27.80vw;
+  margin-top: -2.2vw;
   display: flex;
   z-index: 1;
   width: 18.45vw;
@@ -124,7 +124,7 @@ body {
   width: 48.64vw;
   height: 30.5vw;
   margin-left: 48vw;
-  margin-top: -45.5vw;
+  margin-top: 0.5vw;
 }
 
 .book {
