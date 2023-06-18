@@ -254,6 +254,15 @@ body {
        text-align-last: center;
   color: #fff;
 }
+.button1:hover {
+  background-color: #333333;
+}
+.button2:hover {
+  background-color: #333333;
+}
+.button3:hover {
+  background-color: #333333;
+}
 
 .b5 {
   top: 167vw;

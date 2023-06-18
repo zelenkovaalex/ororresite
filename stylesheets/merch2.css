@@ -338,6 +338,10 @@ body {
   cursor: pointer;
 }
 
+.order:hover {
+  background-color: #333333;
+}
+
 .process {
   z-index: 6;
   position: absolute;

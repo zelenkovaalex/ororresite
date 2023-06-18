@@ -101,6 +101,9 @@ input {
        text-align-last: center;
   color: #fff;
 }
+.butt:hover {
+  background-color: #333333;
+}
 
 .secret {
   position: absolute;

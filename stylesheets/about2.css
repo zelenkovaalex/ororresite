@@ -3,7 +3,7 @@ body {
   background-color: black;
   background-size: cover;
 }
- 
+
 .first, .second, .third {
   display: flex;
   width: 98vw;
@@ -241,6 +241,16 @@ body {
        text-align-last: center;
   color: #fff;
   text-decoration: none;
+}
+
+.button1:hover {
+  background-color: #333333;
+}
+.button2:hover {
+  background-color: #333333;
+}
+.button3:hover {
+  background-color: #333333;
 }
 
 .b5 {
