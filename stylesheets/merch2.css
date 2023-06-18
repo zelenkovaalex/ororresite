@@ -24,7 +24,6 @@ body {
 .sh {
   background-image: url('../img/shopping_card.png');
   background-size: cover;
-  display: flex;
   width: 3.8vw;
   height: 3.1vw;
   margin-top: -4.5vw;
@@ -34,10 +33,9 @@ body {
 .d {
   background-image: url('../img/done.png');
   background-size: cover;
-  display: flex;
   width: 3.8vw;
   height: 3.1vw;
-  margin-top: -3.2vw;
+  margin-top: -4.2vw;
   margin-left: 40.6vw;
 }
 
