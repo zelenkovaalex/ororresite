@@ -25,44 +25,34 @@ body {
 .d10th {
   border-top: 2px solid #FFFFFF;
   width: 38.5vw;
-
-
 }
 .d15th {
   border-top: 2px solid #FFFFFF;
   width: 38.5vw;
-
-
 }
 .d20th {
   border-top: 2px solid #FFFFFF;
   width: 38.5vw;
-
-
 }
 .d25th {
   border-top: 2px solid #FFFFFF;
   width: 38.5vw;
-
-
 }
 .d1st {
   border-top: 2px solid #FFFFFF;
   width: 38.5vw;
-
-
 }
 .d5th {
   border-top: 2px solid #FFFFFF;
   width: 38.5vw;
-
-
 }
 .timetable > div:nth-of-type(odd) {
   height: 4vw;
   display: flex;
   padding-top: 2vw;
 }
+
+
 .timetable > div:nth-of-type(even) {
     padding-bottom: 1.5vw;
 }
@@ -91,6 +81,10 @@ body {
   line-height: 1.56vw;
   color: #fff;
 }
+.date1:hover {
+  font-weight: 900;
+  color: #FFE602;
+}
 .date2 {
   z-index: 1;
   top: 1.5vw;
@@ -101,6 +95,10 @@ body {
   font-size: 3.33vw;
   line-height: 1.56vw;
   color: #fff;
+}
+.date2:hover {
+  font-weight: 900;
+  color: #FFE602;
 }
 .date3 {
   z-index: 1;
@@ -113,6 +111,10 @@ body {
   line-height: 1.56vw;
   color: #fff;
 }
+.date3:hover {
+  font-weight: 900;
+  color: #FFE602;
+}
 .date4 {
   z-index: 1;
   top: 1.5vw;
@@ -123,6 +125,10 @@ body {
   font-size: 3.33vw;
   line-height: 1.56vw;
   color: #fff;
+}
+.date4:hover {
+  font-weight: 900;
+  color: #FFE602;
 }
 .date5 {
   z-index: 1;
@@ -135,6 +141,10 @@ body {
   line-height: 1.56vw;
   color: #fff;
 }
+.date5:hover {
+  font-weight: 900;
+  color: #FFE602;
+}
 .date6 {
   z-index: 1;
   top: 1.5vw;
@@ -146,6 +156,10 @@ body {
   line-height: 1.56vw;
   color: #fff;
 }
+.date6:hover {
+  font-weight: 900;
+  color: #FFE602;
+}
 .date7 {
   z-index: 1;
   top: 1.5vw;
@@ -156,6 +170,10 @@ body {
   font-size: 3.33vw;
   line-height: 1.56vw;
   color: #fff;
+}
+.date7:hover {
+  font-weight: 900;
+  color: #FFE602;
 }
 
 
